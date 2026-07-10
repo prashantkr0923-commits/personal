@@ -1,0 +1,1001 @@
+Crime ID,Date,Time,City,Location,Crime Type,Severity,Arrest Made,Number of Arrests,Hour,DOW,TimeBlock,Cluster
+C1001,2025-01-19,20:56,Kansas City,Rebecca Parks,Theft,Low,No Arrest,0,20,Sunday,Evening,0
+C1002,2024-04-23,19:29,Kansas City,Harding Road,Drug Offense,Medium,Arrest Made,2,19,Tuesday,Evening,0
+C1003,2025-02-12,05:03,Kansas City,Tracy Islands,Homicide,High,Arrest Made,1,5,Wednesday,Morning,0
+C1004,2024-02-05,16:27,Houston,Eric Unions,Homicide,High,Arrest Made,1,16,Monday,Afternoon,1
+C1005,2024-03-29,08:03,Austin,Webb Mall,Fraud,Medium,No Arrest,0,8,Friday,Morning,1
+C1006,2024-04-24,22:55,San Antonio,Benjamin Hollow,Robbery,High,No Arrest,0,22,Wednesday,Night,1
+C1007,2024-06-06,00:35,San Antonio,Angela Creek,Burglary,Medium,Arrest Made,2,0,Thursday,Night,1
+C1008,2024-04-18,17:09,Tulsa,Johnson Light,Theft,Low,Arrest Made,2,17,Thursday,Evening,0
+C1009,2023-12-28,01:47,Little Rock,Murray Glen,Homicide,High,Arrest Made,1,1,Thursday,Night,0
+C1010,2024-10-09,08:13,Austin,Mcintyre Pass,Homicide,High,Arrest Made,1,8,Wednesday,Morning,1
+C1011,2025-05-28,00:49,Oklahoma City,Laura Cliffs,Homicide,High,Arrest Made,1,0,Wednesday,Night,1
+C1012,2025-02-12,16:28,Little Rock,Miller Parks,Burglary,Medium,Arrest Made,1,16,Wednesday,Afternoon,0
+C1013,2023-09-27,05:43,Dallas,Griffin Ford,Burglary,Medium,Arrest Made,2,5,Wednesday,Morning,1
+C1014,2024-05-21,05:52,Little Rock,Cruz Forges,Robbery,High,Arrest Made,1,5,Tuesday,Morning,0
+C1015,2023-12-19,20:56,Dallas,Taylor Court,Assault,Medium,No Arrest,0,20,Tuesday,Evening,1
+C1016,2023-12-20,18:53,San Antonio,Alvarez Drive,Homicide,High,Arrest Made,1,18,Wednesday,Evening,1
+C1017,2023-06-13,15:16,Austin,Austin Port,Drug Offense,Medium,No Arrest,0,15,Tuesday,Afternoon,1
+C1018,2024-04-17,23:32,Houston,Taylor Views,Drug Offense,Medium,Arrest Made,1,23,Wednesday,Night,1
+C1019,2023-12-06,20:28,Kansas City,Bond Prairie,Burglary,Medium,Arrest Made,1,20,Wednesday,Evening,0
+C1020,2024-06-19,12:06,Dallas,Andrew Port,Vandalism,Low,Arrest Made,1,12,Wednesday,Afternoon,1
+C1021,2025-04-16,01:58,Little Rock,Sharon Springs,Robbery,High,Arrest Made,2,1,Wednesday,Night,0
+C1022,2024-06-02,17:33,Houston,Tina Land,Fraud,Medium,Arrest Made,1,17,Sunday,Evening,1
+C1023,2023-07-27,01:57,Tulsa,Diaz Ferry,Homicide,High,Arrest Made,1,1,Thursday,Night,0
+C1024,2024-01-13,06:42,Kansas City,Albert Crossroad,Vandalism,Low,No Arrest,0,6,Saturday,Morning,0
+C1025,2025-04-20,08:57,Dallas,Mcmahon Islands,Assault,Medium,No Arrest,0,8,Sunday,Morning,1
+C1026,2024-08-04,11:03,Austin,Davis Corner,Vandalism,Low,Arrest Made,1,11,Sunday,Morning,1
+C1027,2024-08-21,03:42,Dallas,Alexis Freeway,Robbery,High,Arrest Made,1,3,Wednesday,Night,1
+C1028,2025-02-26,16:36,San Antonio,Howell Divide,Burglary,Medium,Arrest Made,2,16,Wednesday,Afternoon,1
+C1029,2024-09-03,04:22,Oklahoma City,Taylor Crossroad,Theft,Low,Arrest Made,2,4,Tuesday,Night,1
+C1030,2024-09-09,05:15,Little Rock,Green Meadows,Burglary,Medium,Arrest Made,2,5,Monday,Morning,0
+C1031,2024-04-25,11:50,Houston,Amanda Village,Drug Offense,Medium,Arrest Made,1,11,Thursday,Morning,1
+C1032,2024-10-23,00:07,Oklahoma City,Johnson Cliff,Burglary,Medium,Arrest Made,1,0,Wednesday,Night,1
+C1033,2023-06-22,22:05,Dallas,Kirsten Fork,Drug Offense,Medium,Arrest Made,1,22,Thursday,Night,1
+C1034,2025-04-21,13:01,Kansas City,Brian Parkway,Homicide,High,Arrest Made,1,13,Monday,Afternoon,0
+C1035,2024-06-17,03:12,Dallas,Ortiz Crescent,Fraud,Medium,Arrest Made,2,3,Monday,Night,1
+C1036,2024-05-16,15:08,Oklahoma City,Butler Fork,Vandalism,Low,Arrest Made,1,15,Thursday,Afternoon,1
+C1037,2024-07-20,20:17,Oklahoma City,Mercer Summit,Assault,Medium,Arrest Made,2,20,Saturday,Evening,1
+C1038,2025-04-22,16:26,Tulsa,Johnson Forks,Homicide,High,Arrest Made,1,16,Tuesday,Afternoon,0
+C1039,2023-12-03,05:18,Tulsa,Austin Plains,Drug Offense,Medium,Arrest Made,1,5,Sunday,Morning,0
+C1040,2024-12-10,21:20,Dallas,Victoria Manors,Vandalism,Low,No Arrest,0,21,Tuesday,Night,1
+C1041,2025-01-15,01:44,Austin,Tim Pines,Homicide,High,Arrest Made,1,1,Wednesday,Night,1
+C1042,2024-08-10,00:00,Austin,Anita Cliffs,Assault,Medium,Arrest Made,1,0,Saturday,Night,1
+C1043,2025-02-20,21:49,Houston,Kelly Ports,Robbery,High,Arrest Made,2,21,Thursday,Night,1
+C1044,2024-03-27,07:06,San Antonio,Jose Hollow,Burglary,Medium,Arrest Made,1,7,Wednesday,Morning,1
+C1045,2023-06-12,07:29,Houston,Hill Coves,Theft,Low,Arrest Made,2,7,Monday,Morning,1
+C1046,2025-04-15,11:42,Austin,Karen Meadows,Homicide,High,Arrest Made,1,11,Tuesday,Morning,1
+C1047,2024-05-24,09:50,Houston,Ford Creek,Robbery,High,No Arrest,0,9,Friday,Morning,1
+C1048,2025-04-02,02:07,Tulsa,Nancy Tunnel,Robbery,High,Arrest Made,1,2,Wednesday,Night,0
+C1049,2024-06-12,12:31,Austin,Andre Island,Assault,Medium,No Arrest,0,12,Wednesday,Afternoon,1
+C1050,2024-01-07,15:26,Kansas City,Jennifer Cliff,Robbery,High,No Arrest,0,15,Sunday,Afternoon,0
+C1051,2023-10-29,17:09,Oklahoma City,Snyder Summit,Theft,Low,Arrest Made,1,17,Sunday,Evening,1
+C1052,2025-02-19,07:14,Austin,Adriana Trail,Homicide,High,Arrest Made,1,7,Wednesday,Morning,1
+C1053,2023-09-09,07:20,Dallas,Hess Club,Homicide,High,Arrest Made,1,7,Saturday,Morning,1
+C1054,2023-06-16,18:04,Oklahoma City,Timothy Manor,Drug Offense,Medium,Arrest Made,1,18,Friday,Evening,1
+C1055,2025-01-01,00:45,Kansas City,Lester Drive,Homicide,High,Arrest Made,1,0,Wednesday,Night,0
+C1056,2025-03-18,07:48,Austin,Williams Way,Theft,Low,Arrest Made,2,7,Tuesday,Morning,1
+C1057,2024-06-06,20:17,Kansas City,Salas Hill,Burglary,Medium,No Arrest,0,20,Thursday,Evening,0
+C1058,2023-12-07,15:55,Houston,Richard Mountains,Assault,Medium,Arrest Made,2,15,Thursday,Afternoon,1
+C1059,2024-11-01,21:12,Little Rock,Jennifer Hills,Drug Offense,Medium,No Arrest,0,21,Friday,Night,0
+C1060,2024-06-22,15:13,San Antonio,Matthews View,Burglary,Medium,No Arrest,0,15,Saturday,Afternoon,1
+C1061,2023-09-25,19:32,Tulsa,Hobbs Mews,Assault,Medium,No Arrest,0,19,Monday,Evening,0
+C1062,2025-02-21,06:02,Dallas,Patrick Isle,Fraud,Medium,Arrest Made,2,6,Friday,Morning,1
+C1063,2024-09-16,09:05,Oklahoma City,Denise Manors,Vandalism,Low,Arrest Made,1,9,Monday,Morning,1
+C1064,2024-06-10,12:08,Austin,Nichole Squares,Vandalism,Low,No Arrest,0,12,Monday,Afternoon,1
+C1065,2024-06-22,19:28,San Antonio,Underwood Ridges,Robbery,High,Arrest Made,1,19,Saturday,Evening,1
+C1066,2024-02-24,07:07,Austin,Danielle Land,Theft,Low,No Arrest,0,7,Saturday,Morning,1
+C1067,2023-09-05,06:23,Oklahoma City,Duncan Run,Vandalism,Low,Arrest Made,1,6,Tuesday,Morning,1
+C1068,2023-08-16,00:46,Dallas,Webster Extension,Vandalism,Low,Arrest Made,1,0,Wednesday,Night,1
+C1069,2024-06-04,16:10,Houston,Zachary Path,Theft,Low,Arrest Made,1,16,Tuesday,Afternoon,1
+C1070,2025-02-28,04:59,Little Rock,Campos Groves,Burglary,Medium,No Arrest,0,4,Friday,Night,0
+C1071,2023-06-17,17:51,Dallas,Williams Vista,Theft,Low,Arrest Made,1,17,Saturday,Evening,1
+C1072,2024-05-17,14:48,Houston,Smith Islands,Fraud,Medium,No Arrest,0,14,Friday,Afternoon,1
+C1073,2024-12-21,19:29,Tulsa,Anthony Rapids,Burglary,Medium,Arrest Made,2,19,Saturday,Evening,0
+C1074,2023-08-30,02:19,Oklahoma City,Mercado Centers,Assault,Medium,Arrest Made,1,2,Wednesday,Night,1
+C1075,2023-11-18,13:51,Houston,Tiffany Island,Robbery,High,No Arrest,0,13,Saturday,Afternoon,1
+C1076,2023-07-08,11:46,Tulsa,Dean Stravenue,Robbery,High,Arrest Made,2,11,Saturday,Morning,0
+C1077,2024-07-22,22:31,Oklahoma City,Lopez Pike,Vandalism,Low,Arrest Made,1,22,Monday,Night,1
+C1078,2024-09-16,10:53,Tulsa,Richard Isle,Vandalism,Low,Arrest Made,2,10,Monday,Morning,0
+C1079,2024-10-14,04:42,Dallas,David Meadows,Drug Offense,Medium,Arrest Made,2,4,Monday,Night,1
+C1080,2025-02-13,01:12,Dallas,Jason Loaf,Theft,Low,Arrest Made,2,1,Thursday,Night,1
+C1081,2023-09-19,21:03,Kansas City,Christopher Pines,Homicide,High,Arrest Made,1,21,Tuesday,Night,0
+C1082,2023-11-02,02:45,Dallas,Matthews Islands,Burglary,Medium,No Arrest,0,2,Thursday,Night,1
+C1083,2024-02-26,20:02,Houston,Hubbard Summit,Homicide,High,Arrest Made,1,20,Monday,Evening,1
+C1084,2025-04-30,00:10,Austin,Johnson Mountain,Homicide,High,Arrest Made,1,0,Wednesday,Night,1
+C1085,2025-03-23,22:19,Kansas City,Wendy Manor,Robbery,High,No Arrest,0,22,Sunday,Night,0
+C1086,2023-11-12,04:50,Little Rock,Mclaughlin Parkways,Drug Offense,Medium,Arrest Made,2,4,Sunday,Night,0
+C1087,2023-12-26,22:59,San Antonio,Jennifer Street,Fraud,Medium,Arrest Made,2,22,Tuesday,Night,1
+C1088,2024-03-18,02:24,Oklahoma City,Foster Landing,Fraud,Medium,Arrest Made,2,2,Monday,Night,1
+C1089,2024-05-05,03:01,Kansas City,Andrew Knoll,Burglary,Medium,No Arrest,0,3,Sunday,Night,0
+C1090,2023-09-04,02:57,Houston,Obrien Inlet,Robbery,High,No Arrest,0,2,Monday,Night,1
+C1091,2023-10-12,23:54,Kansas City,Sharon Center,Drug Offense,Medium,Arrest Made,1,23,Thursday,Night,0
+C1092,2024-04-03,13:47,Oklahoma City,Taylor Flats,Fraud,Medium,Arrest Made,2,13,Wednesday,Afternoon,1
+C1093,2023-12-22,19:45,Little Rock,Weber Meadow,Assault,Medium,No Arrest,0,19,Friday,Evening,0
+C1094,2023-06-28,07:41,Dallas,Nathan Spurs,Vandalism,Low,Arrest Made,1,7,Wednesday,Morning,1
+C1095,2024-08-01,12:20,Little Rock,Mcdonald Cliffs,Vandalism,Low,No Arrest,0,12,Thursday,Afternoon,0
+C1096,2023-10-14,17:00,Austin,Donovan Parkway,Vandalism,Low,Arrest Made,1,17,Saturday,Evening,1
+C1097,2025-05-26,09:59,Austin,Palmer Cape,Robbery,High,Arrest Made,1,9,Monday,Morning,1
+C1098,2024-02-06,13:41,Dallas,Ray Radial,Robbery,High,No Arrest,0,13,Tuesday,Afternoon,1
+C1099,2024-12-14,18:03,Oklahoma City,Johnson Shores,Homicide,High,Arrest Made,1,18,Saturday,Evening,1
+C1100,2023-06-11,16:42,San Antonio,Higgins Expressway,Assault,Medium,Arrest Made,1,16,Sunday,Afternoon,1
+C1101,2024-09-01,01:41,Little Rock,White Ports,Drug Offense,Medium,No Arrest,0,1,Sunday,Night,0
+C1102,2025-03-03,05:38,Oklahoma City,Watson Avenue,Theft,Low,Arrest Made,2,5,Monday,Morning,1
+C1103,2025-04-16,05:11,San Antonio,Lane Forges,Fraud,Medium,Arrest Made,1,5,Wednesday,Morning,1
+C1104,2025-03-01,17:22,Oklahoma City,Elaine Park,Vandalism,Low,Arrest Made,1,17,Saturday,Evening,1
+C1105,2023-08-13,09:09,San Antonio,Morris Alley,Fraud,Medium,No Arrest,0,9,Sunday,Morning,1
+C1106,2024-04-25,08:40,Houston,Olson Mountains,Robbery,High,Arrest Made,2,8,Thursday,Morning,1
+C1107,2025-01-02,12:03,Houston,Gates Coves,Assault,Medium,No Arrest,0,12,Thursday,Afternoon,1
+C1108,2025-05-02,20:05,Austin,Amanda Fields,Theft,Low,No Arrest,0,20,Friday,Evening,1
+C1109,2023-10-03,06:32,San Antonio,Jason Point,Drug Offense,Medium,No Arrest,0,6,Tuesday,Morning,1
+C1110,2023-10-24,00:28,Tulsa,Karen Village,Homicide,High,Arrest Made,1,0,Tuesday,Night,0
+C1111,2024-07-27,21:18,Austin,David Lights,Assault,Medium,Arrest Made,1,21,Saturday,Night,1
+C1112,2023-07-23,09:24,Dallas,Melissa Dam,Robbery,High,No Arrest,0,9,Sunday,Morning,1
+C1113,2025-05-07,21:31,Oklahoma City,Evans Rue,Homicide,High,Arrest Made,1,21,Wednesday,Night,1
+C1114,2024-10-01,14:15,Austin,Jennifer Shoals,Vandalism,Low,No Arrest,0,14,Tuesday,Afternoon,1
+C1115,2024-04-28,02:31,San Antonio,Robert Islands,Assault,Medium,Arrest Made,1,2,Sunday,Night,1
+C1116,2025-03-19,20:46,Oklahoma City,Anthony Dale,Vandalism,Low,No Arrest,0,20,Wednesday,Evening,1
+C1117,2024-07-25,04:30,Dallas,Sharon Crossing,Vandalism,Low,No Arrest,0,4,Thursday,Night,1
+C1118,2024-03-16,16:11,Kansas City,Wong Rest,Drug Offense,Medium,Arrest Made,2,16,Saturday,Afternoon,0
+C1119,2024-03-30,23:56,Oklahoma City,Elizabeth Center,Vandalism,Low,Arrest Made,2,23,Saturday,Night,1
+C1120,2025-04-11,00:39,Oklahoma City,Matthew Ways,Assault,Medium,Arrest Made,1,0,Friday,Night,1
+C1121,2025-01-02,00:38,San Antonio,Dixon Inlet,Fraud,Medium,No Arrest,0,0,Thursday,Night,1
+C1122,2025-04-10,18:29,Austin,Robert Mount,Theft,Low,No Arrest,0,18,Thursday,Evening,1
+C1123,2025-03-23,15:51,Little Rock,Julie Brook,Vandalism,Low,Arrest Made,1,15,Sunday,Afternoon,0
+C1124,2024-11-10,10:25,Austin,Bowers Burg,Fraud,Medium,Arrest Made,1,10,Sunday,Morning,1
+C1125,2024-01-08,05:35,Oklahoma City,Griffith Trafficway,Assault,Medium,Arrest Made,1,5,Monday,Morning,1
+C1126,2024-02-11,15:25,San Antonio,Tristan Rapid,Burglary,Medium,No Arrest,0,15,Sunday,Afternoon,1
+C1127,2024-04-22,08:37,Tulsa,Daniel Stravenue,Burglary,Medium,Arrest Made,2,8,Monday,Morning,0
+C1128,2024-06-16,11:00,Kansas City,Dixon Shore,Vandalism,Low,Arrest Made,2,11,Sunday,Morning,0
+C1129,2025-01-15,03:02,Tulsa,Robert Crest,Burglary,Medium,No Arrest,0,3,Wednesday,Night,0
+C1130,2023-11-26,05:13,Kansas City,Monroe Path,Drug Offense,Medium,Arrest Made,2,5,Sunday,Morning,0
+C1131,2023-11-21,14:31,Tulsa,Welch Fords,Theft,Low,Arrest Made,2,14,Tuesday,Afternoon,0
+C1132,2024-03-09,18:20,Kansas City,Victoria Prairie,Fraud,Medium,No Arrest,0,18,Saturday,Evening,0
+C1133,2024-01-17,02:06,Oklahoma City,Foster Route,Assault,Medium,Arrest Made,2,2,Wednesday,Night,1
+C1134,2023-11-11,09:38,Kansas City,Watkins Unions,Theft,Low,No Arrest,0,9,Saturday,Morning,0
+C1135,2023-07-19,18:35,Little Rock,Carl Forks,Robbery,High,Arrest Made,1,18,Wednesday,Evening,0
+C1136,2025-05-14,22:24,Tulsa,Owens Summit,Vandalism,Low,Arrest Made,2,22,Wednesday,Night,0
+C1137,2024-11-01,08:58,Kansas City,Ryan Squares,Drug Offense,Medium,Arrest Made,2,8,Friday,Morning,0
+C1138,2023-06-23,22:02,San Antonio,Evans Row,Theft,Low,Arrest Made,2,22,Friday,Night,1
+C1139,2024-08-24,13:27,San Antonio,Wall Mountains,Homicide,High,Arrest Made,1,13,Saturday,Afternoon,1
+C1140,2023-08-31,09:54,Kansas City,Michael Passage,Vandalism,Low,Arrest Made,2,9,Thursday,Morning,0
+C1141,2025-01-03,13:22,San Antonio,Guerrero Harbors,Theft,Low,Arrest Made,1,13,Friday,Afternoon,1
+C1142,2023-09-11,14:21,Austin,Amy Wall,Assault,Medium,No Arrest,0,14,Monday,Afternoon,1
+C1143,2024-07-04,14:37,Houston,Andrew Mission,Theft,Low,Arrest Made,2,14,Thursday,Afternoon,1
+C1144,2024-12-11,03:37,Oklahoma City,Darrell Fields,Theft,Low,Arrest Made,1,3,Wednesday,Night,1
+C1145,2024-02-19,21:03,Oklahoma City,Tiffany Loop,Homicide,High,Arrest Made,1,21,Monday,Night,1
+C1146,2024-03-22,11:32,Kansas City,Brandon Loop,Burglary,Medium,Arrest Made,1,11,Friday,Morning,0
+C1147,2023-10-05,08:02,Kansas City,Estrada Canyon,Homicide,High,Arrest Made,1,8,Thursday,Morning,0
+C1148,2024-07-08,13:53,Oklahoma City,Alvarez Estates,Assault,Medium,No Arrest,0,13,Monday,Afternoon,1
+C1149,2024-12-21,17:34,Tulsa,Munoz Point,Theft,Low,No Arrest,0,17,Saturday,Evening,0
+C1150,2024-02-09,22:18,Kansas City,Timothy Place,Homicide,High,Arrest Made,1,22,Friday,Night,0
+C1151,2025-02-23,04:02,Austin,John Fork,Assault,Medium,No Arrest,0,4,Sunday,Night,1
+C1152,2025-05-23,00:28,Houston,Maynard Valley,Homicide,High,Arrest Made,1,0,Friday,Night,1
+C1153,2025-04-12,12:13,Tulsa,Emily Forges,Robbery,High,No Arrest,0,12,Saturday,Afternoon,0
+C1154,2024-01-19,02:31,Tulsa,Cook Road,Homicide,High,Arrest Made,1,2,Friday,Night,0
+C1155,2023-09-07,08:05,Austin,Adam Knolls,Fraud,Medium,Arrest Made,2,8,Thursday,Morning,1
+C1156,2023-08-31,00:35,Kansas City,Allen Locks,Burglary,Medium,No Arrest,0,0,Thursday,Night,0
+C1157,2023-12-11,12:51,Houston,Martin Lane,Drug Offense,Medium,No Arrest,0,12,Monday,Afternoon,1
+C1158,2024-05-20,01:15,Austin,Johnson Common,Theft,Low,Arrest Made,1,1,Monday,Night,1
+C1159,2024-10-26,15:25,Dallas,Maynard Junction,Burglary,Medium,Arrest Made,2,15,Saturday,Afternoon,1
+C1160,2024-04-26,14:27,Austin,Rhodes Shores,Burglary,Medium,Arrest Made,2,14,Friday,Afternoon,1
+C1161,2024-10-29,05:59,Austin,Jennifer Hills,Homicide,High,Arrest Made,1,5,Tuesday,Morning,1
+C1162,2024-03-27,20:05,San Antonio,Huerta Turnpike,Theft,Low,Arrest Made,2,20,Wednesday,Evening,1
+C1163,2025-04-23,23:47,San Antonio,Barnes Ways,Theft,Low,No Arrest,0,23,Wednesday,Night,1
+C1164,2024-11-14,11:39,Austin,Heather Walk,Homicide,High,Arrest Made,1,11,Thursday,Morning,1
+C1165,2024-03-27,12:41,Dallas,Mccall Circles,Drug Offense,Medium,No Arrest,0,12,Wednesday,Afternoon,1
+C1166,2023-10-08,05:56,Austin,Lee Burg,Homicide,High,Arrest Made,1,5,Sunday,Morning,1
+C1167,2024-10-24,00:26,Oklahoma City,Murphy Circles,Theft,Low,Arrest Made,2,0,Thursday,Night,1
+C1168,2024-06-03,14:54,Dallas,Matthew Stravenue,Fraud,Medium,Arrest Made,2,14,Monday,Afternoon,1
+C1169,2024-07-08,03:44,Oklahoma City,Lopez Mills,Homicide,High,Arrest Made,1,3,Monday,Night,1
+C1170,2023-07-12,06:55,Houston,Gerald Cliffs,Fraud,Medium,Arrest Made,2,6,Wednesday,Morning,1
+C1171,2024-06-06,04:32,Tulsa,Horton Pines,Drug Offense,Medium,Arrest Made,2,4,Thursday,Night,0
+C1172,2024-10-13,13:41,Houston,Randy Mountains,Vandalism,Low,Arrest Made,1,13,Sunday,Afternoon,1
+C1173,2024-12-14,08:57,Houston,Anthony Spur,Robbery,High,No Arrest,0,8,Saturday,Morning,1
+C1174,2024-10-01,17:12,Oklahoma City,Kevin Lakes,Assault,Medium,No Arrest,0,17,Tuesday,Evening,1
+C1175,2023-11-30,06:55,Dallas,Patricia Turnpike,Theft,Low,No Arrest,0,6,Thursday,Morning,1
+C1176,2025-03-17,03:34,Houston,Terrell Groves,Robbery,High,No Arrest,0,3,Monday,Night,1
+C1177,2023-06-11,12:39,Little Rock,Lorraine Groves,Robbery,High,Arrest Made,1,12,Sunday,Afternoon,0
+C1178,2023-06-23,14:35,Austin,Yu Crossroad,Assault,Medium,No Arrest,0,14,Friday,Afternoon,1
+C1179,2025-01-30,08:34,Austin,May Stream,Robbery,High,Arrest Made,1,8,Thursday,Morning,1
+C1180,2023-07-15,23:25,Little Rock,Gardner Bypass,Theft,Low,Arrest Made,1,23,Saturday,Night,0
+C1181,2023-07-11,00:13,Tulsa,Brittany Trace,Robbery,High,Arrest Made,2,0,Tuesday,Night,0
+C1182,2024-03-24,22:58,Tulsa,Regina Lodge,Burglary,Medium,No Arrest,0,22,Sunday,Night,0
+C1183,2025-04-12,22:15,Dallas,Williams Light,Burglary,Medium,Arrest Made,1,22,Saturday,Night,1
+C1184,2023-06-16,05:13,Dallas,Ryan Garden,Assault,Medium,No Arrest,0,5,Friday,Morning,1
+C1185,2024-07-17,12:58,Houston,Gray Burg,Assault,Medium,Arrest Made,2,12,Wednesday,Afternoon,1
+C1186,2025-04-01,09:41,Dallas,Nathan Point,Robbery,High,Arrest Made,1,9,Tuesday,Morning,1
+C1187,2024-10-11,15:45,Dallas,Boone Green,Drug Offense,Medium,No Arrest,0,15,Friday,Afternoon,1
+C1188,2024-12-30,14:33,Austin,Pena Loop,Theft,Low,Arrest Made,1,14,Monday,Afternoon,1
+C1189,2025-02-04,14:11,Houston,Jenna Spurs,Assault,Medium,No Arrest,0,14,Tuesday,Afternoon,1
+C1190,2024-10-12,22:01,Kansas City,Hendrix Hills,Drug Offense,Medium,Arrest Made,1,22,Saturday,Night,0
+C1191,2024-11-22,03:07,Tulsa,Guzman Roads,Assault,Medium,Arrest Made,1,3,Friday,Night,0
+C1192,2024-03-21,05:45,Kansas City,Huang Hills,Burglary,Medium,Arrest Made,1,5,Thursday,Morning,0
+C1193,2023-07-20,17:15,Houston,Misty Plains,Robbery,High,No Arrest,0,17,Thursday,Evening,1
+C1194,2025-05-05,15:21,San Antonio,Koch Mountain,Fraud,Medium,Arrest Made,1,15,Monday,Afternoon,1
+C1195,2024-01-15,05:48,Dallas,Rivera Ridges,Drug Offense,Medium,Arrest Made,2,5,Monday,Morning,1
+C1196,2024-04-13,12:27,Houston,Morris Harbor,Fraud,Medium,No Arrest,0,12,Saturday,Afternoon,1
+C1197,2023-07-25,12:43,Austin,Robert Shores,Robbery,High,No Arrest,0,12,Tuesday,Afternoon,1
+C1198,2024-04-17,00:57,Houston,Williamson Fort,Robbery,High,Arrest Made,2,0,Wednesday,Night,1
+C1199,2025-05-22,00:20,Kansas City,Mary Turnpike,Fraud,Medium,No Arrest,0,0,Thursday,Night,0
+C1200,2023-09-16,13:38,Austin,Sheena Alley,Fraud,Medium,Arrest Made,1,13,Saturday,Afternoon,1
+C1201,2023-11-20,20:12,Houston,Douglas Grove,Robbery,High,Arrest Made,1,20,Monday,Evening,1
+C1202,2025-05-28,11:08,San Antonio,Mitchell Street,Homicide,High,Arrest Made,1,11,Wednesday,Morning,1
+C1203,2025-06-05,00:19,Tulsa,Kathy Plaza,Vandalism,Low,Arrest Made,2,0,Thursday,Night,0
+C1204,2025-05-31,16:19,Dallas,Stephens Keys,Burglary,Medium,No Arrest,0,16,Saturday,Afternoon,1
+C1205,2024-04-02,13:01,Oklahoma City,Daniel Cliff,Homicide,High,Arrest Made,1,13,Tuesday,Afternoon,1
+C1206,2024-08-18,10:59,Tulsa,Lawrence Corner,Vandalism,Low,Arrest Made,1,10,Sunday,Morning,0
+C1207,2024-07-01,03:52,Houston,Keith Pass,Homicide,High,Arrest Made,1,3,Monday,Night,1
+C1208,2024-02-12,20:09,Little Rock,Christine Fork,Homicide,High,Arrest Made,1,20,Monday,Evening,0
+C1209,2024-08-21,06:09,Houston,Brandi Mills,Drug Offense,Medium,No Arrest,0,6,Wednesday,Morning,1
+C1210,2024-10-24,16:41,San Antonio,Jeremy Row,Assault,Medium,Arrest Made,2,16,Thursday,Afternoon,1
+C1211,2023-06-24,15:50,Austin,Samantha Summit,Burglary,Medium,No Arrest,0,15,Saturday,Afternoon,1
+C1212,2023-09-14,10:06,Dallas,Rodriguez Route,Burglary,Medium,Arrest Made,2,10,Thursday,Morning,1
+C1213,2023-09-25,20:50,San Antonio,John Circle,Fraud,Medium,Arrest Made,2,20,Monday,Evening,1
+C1214,2023-06-13,16:38,Tulsa,Rodriguez Ranch,Theft,Low,Arrest Made,1,16,Tuesday,Afternoon,0
+C1215,2025-02-04,00:09,Dallas,Shaw Union,Theft,Low,Arrest Made,1,0,Tuesday,Night,1
+C1216,2025-03-19,13:20,San Antonio,Richard Run,Burglary,Medium,Arrest Made,2,13,Wednesday,Afternoon,1
+C1217,2024-10-11,07:29,Houston,Perkins Points,Assault,Medium,No Arrest,0,7,Friday,Morning,1
+C1218,2024-09-27,21:09,Austin,Anderson Station,Theft,Low,No Arrest,0,21,Friday,Night,1
+C1219,2023-06-20,21:31,Tulsa,Clark Pike,Assault,Medium,Arrest Made,2,21,Tuesday,Night,0
+C1220,2023-12-14,02:31,Tulsa,Davis Mountains,Homicide,High,Arrest Made,1,2,Thursday,Night,0
+C1221,2025-04-07,01:04,Little Rock,Elizabeth Fords,Theft,Low,Arrest Made,2,1,Monday,Night,0
+C1222,2024-02-27,10:07,Kansas City,Jason Plaza,Robbery,High,No Arrest,0,10,Tuesday,Morning,0
+C1223,2024-08-11,12:50,Tulsa,Natalie Expressway,Assault,Medium,Arrest Made,2,12,Sunday,Afternoon,0
+C1224,2023-11-28,18:56,Austin,Webb Brooks,Homicide,High,Arrest Made,1,18,Tuesday,Evening,1
+C1225,2024-10-05,08:22,Little Rock,Jose Unions,Robbery,High,Arrest Made,1,8,Saturday,Morning,0
+C1226,2024-06-14,00:01,Tulsa,Johnson Extensions,Homicide,High,Arrest Made,1,0,Friday,Night,0
+C1227,2023-07-15,05:25,Austin,David Ramp,Homicide,High,Arrest Made,1,5,Saturday,Morning,1
+C1228,2024-04-23,13:15,Dallas,Johnson Lodge,Vandalism,Low,Arrest Made,2,13,Tuesday,Afternoon,1
+C1229,2024-01-10,16:45,Kansas City,Jesse Plaza,Assault,Medium,Arrest Made,1,16,Wednesday,Afternoon,0
+C1230,2025-05-29,21:11,San Antonio,Elliott Throughway,Vandalism,Low,Arrest Made,1,21,Thursday,Night,1
+C1231,2025-05-28,19:16,Oklahoma City,Garrett Ports,Vandalism,Low,Arrest Made,2,19,Wednesday,Evening,1
+C1232,2024-09-12,05:23,Dallas,Green Circles,Theft,Low,Arrest Made,2,5,Thursday,Morning,1
+C1233,2024-03-24,19:51,Dallas,Owens Mission,Homicide,High,Arrest Made,1,19,Sunday,Evening,1
+C1234,2025-03-27,14:57,Kansas City,Brown Knolls,Robbery,High,Arrest Made,2,14,Thursday,Afternoon,0
+C1235,2023-08-24,19:50,Tulsa,Ashley Locks,Drug Offense,Medium,Arrest Made,2,19,Thursday,Evening,0
+C1236,2023-12-31,03:19,Kansas City,Jason Glens,Vandalism,Low,No Arrest,0,3,Sunday,Night,0
+C1237,2024-08-29,10:22,Tulsa,Christine Mount,Theft,Low,No Arrest,0,10,Thursday,Morning,0
+C1238,2023-12-21,17:26,Little Rock,Donald Branch,Assault,Medium,Arrest Made,2,17,Thursday,Evening,0
+C1239,2024-07-06,06:03,Kansas City,Santos Isle,Assault,Medium,Arrest Made,2,6,Saturday,Morning,0
+C1240,2023-07-12,00:45,Little Rock,Sarah Cove,Vandalism,Low,Arrest Made,1,0,Wednesday,Night,0
+C1241,2023-12-03,07:18,Kansas City,Carter Wall,Burglary,Medium,Arrest Made,2,7,Sunday,Morning,0
+C1242,2023-10-10,11:40,Kansas City,Adam Islands,Homicide,High,Arrest Made,1,11,Tuesday,Morning,0
+C1243,2023-10-05,10:00,Tulsa,Watkins Springs,Robbery,High,No Arrest,0,10,Thursday,Morning,0
+C1244,2025-03-23,21:05,Little Rock,Mark View,Assault,Medium,Arrest Made,1,21,Sunday,Night,0
+C1245,2023-12-22,22:59,Austin,Jackie Wells,Drug Offense,Medium,No Arrest,0,22,Friday,Night,1
+C1246,2025-01-13,17:09,Houston,Sabrina Court,Theft,Low,Arrest Made,2,17,Monday,Evening,1
+C1247,2023-12-01,06:10,San Antonio,Karen Rest,Theft,Low,Arrest Made,1,6,Friday,Morning,1
+C1248,2024-09-16,10:19,San Antonio,Jillian Lakes,Homicide,High,Arrest Made,1,10,Monday,Morning,1
+C1249,2025-06-04,10:49,Houston,Tony Park,Burglary,Medium,No Arrest,0,10,Wednesday,Morning,1
+C1250,2025-01-14,01:59,Little Rock,Carrie Lodge,Theft,Low,Arrest Made,1,1,Tuesday,Night,0
+C1251,2025-04-02,19:44,San Antonio,Walters Square,Drug Offense,Medium,No Arrest,0,19,Wednesday,Evening,1
+C1252,2023-09-19,00:16,Kansas City,Cindy Wells,Theft,Low,Arrest Made,2,0,Tuesday,Night,0
+C1253,2024-04-11,21:46,Dallas,Jessica Lodge,Vandalism,Low,Arrest Made,1,21,Thursday,Night,1
+C1254,2024-10-25,21:25,Tulsa,Dudley Plain,Robbery,High,Arrest Made,1,21,Friday,Night,0
+C1255,2024-04-01,08:10,Houston,Clark Estate,Fraud,Medium,No Arrest,0,8,Monday,Morning,1
+C1256,2025-03-04,10:56,Austin,George Lake,Burglary,Medium,Arrest Made,1,10,Tuesday,Morning,1
+C1257,2024-02-27,13:06,Tulsa,William Ridge,Vandalism,Low,Arrest Made,2,13,Tuesday,Afternoon,0
+C1258,2025-04-15,17:24,Dallas,Perry Square,Drug Offense,Medium,Arrest Made,2,17,Tuesday,Evening,1
+C1259,2025-03-14,23:44,Oklahoma City,Powell Turnpike,Drug Offense,Medium,Arrest Made,1,23,Friday,Night,1
+C1260,2024-07-21,12:56,Kansas City,Brewer Fork,Burglary,Medium,Arrest Made,2,12,Sunday,Afternoon,0
+C1261,2023-09-16,16:45,Austin,Craig Groves,Fraud,Medium,Arrest Made,2,16,Saturday,Afternoon,1
+C1262,2024-07-01,10:56,Tulsa,Lopez Orchard,Fraud,Medium,No Arrest,0,10,Monday,Morning,0
+C1263,2023-11-03,17:50,Oklahoma City,Gregory Shore,Homicide,High,Arrest Made,1,17,Friday,Evening,1
+C1264,2023-09-28,06:44,Austin,Spencer Path,Homicide,High,Arrest Made,1,6,Thursday,Morning,1
+C1265,2025-03-22,03:46,Houston,Justin Alley,Fraud,Medium,Arrest Made,1,3,Saturday,Night,1
+C1266,2023-12-26,00:02,Dallas,Thomas Fords,Theft,Low,Arrest Made,1,0,Tuesday,Night,1
+C1267,2023-07-02,00:10,Little Rock,Christine Club,Burglary,Medium,Arrest Made,2,0,Sunday,Night,0
+C1268,2023-09-08,16:52,Kansas City,Sandra Forest,Fraud,Medium,No Arrest,0,16,Friday,Afternoon,0
+C1269,2025-06-05,04:36,Tulsa,Troy Valleys,Vandalism,Low,Arrest Made,1,4,Thursday,Night,0
+C1270,2024-01-02,16:29,Little Rock,Williams Parkways,Fraud,Medium,No Arrest,0,16,Tuesday,Afternoon,0
+C1271,2024-01-04,17:42,Kansas City,Carol Burgs,Fraud,Medium,Arrest Made,1,17,Thursday,Evening,0
+C1272,2024-06-26,13:38,Little Rock,Joshua Creek,Fraud,Medium,Arrest Made,2,13,Wednesday,Afternoon,0
+C1273,2025-04-08,15:49,Oklahoma City,Marilyn Walk,Vandalism,Low,Arrest Made,1,15,Tuesday,Afternoon,1
+C1274,2023-10-08,16:53,Oklahoma City,Marcus Field,Homicide,High,Arrest Made,1,16,Sunday,Afternoon,1
+C1275,2023-11-23,09:02,Little Rock,Amy Squares,Vandalism,Low,Arrest Made,1,9,Thursday,Morning,0
+C1276,2024-12-25,14:15,Oklahoma City,Goodman Glen,Burglary,Medium,No Arrest,0,14,Wednesday,Afternoon,1
+C1277,2024-08-06,02:57,Houston,Rodney Plain,Homicide,High,Arrest Made,1,2,Tuesday,Night,1
+C1278,2024-03-15,18:36,Little Rock,Cooper Creek,Burglary,Medium,Arrest Made,2,18,Friday,Evening,0
+C1279,2024-06-16,22:31,Dallas,Garcia Springs,Theft,Low,Arrest Made,2,22,Sunday,Night,1
+C1280,2023-10-04,06:31,Oklahoma City,Tracy Inlet,Fraud,Medium,No Arrest,0,6,Wednesday,Morning,1
+C1281,2024-02-02,06:04,Little Rock,Wolf Gateway,Theft,Low,Arrest Made,2,6,Friday,Morning,0
+C1282,2023-12-09,04:36,Dallas,Kenneth Lane,Drug Offense,Medium,Arrest Made,1,4,Saturday,Night,1
+C1283,2024-08-15,16:14,Austin,Rebecca Point,Theft,Low,Arrest Made,1,16,Thursday,Afternoon,1
+C1284,2025-04-09,18:44,Kansas City,Jennifer Meadows,Robbery,High,Arrest Made,2,18,Wednesday,Evening,0
+C1285,2023-06-14,16:02,Little Rock,Castillo Tunnel,Assault,Medium,No Arrest,0,16,Wednesday,Afternoon,0
+C1286,2024-07-17,00:34,Dallas,Mason Ways,Assault,Medium,No Arrest,0,0,Wednesday,Night,1
+C1287,2024-12-13,16:34,Dallas,Krista Ville,Homicide,High,Arrest Made,1,16,Friday,Afternoon,1
+C1288,2023-06-15,12:00,Oklahoma City,Richards Roads,Homicide,High,Arrest Made,1,12,Thursday,Afternoon,1
+C1289,2023-11-07,06:53,Tulsa,James Bridge,Burglary,Medium,Arrest Made,2,6,Tuesday,Morning,0
+C1290,2023-10-09,10:30,Tulsa,Elizabeth Extensions,Assault,Medium,Arrest Made,2,10,Monday,Morning,0
+C1291,2024-08-16,13:32,Kansas City,Murphy Valley,Burglary,Medium,No Arrest,0,13,Friday,Afternoon,0
+C1292,2023-09-23,19:14,Tulsa,Beck Knoll,Assault,Medium,Arrest Made,1,19,Saturday,Evening,0
+C1293,2025-04-30,16:21,Little Rock,Snyder Stravenue,Homicide,High,Arrest Made,1,16,Wednesday,Afternoon,0
+C1294,2024-09-06,21:24,Little Rock,Joseph Forks,Burglary,Medium,Arrest Made,1,21,Friday,Night,0
+C1295,2024-05-08,14:26,San Antonio,Rodney Trail,Vandalism,Low,Arrest Made,1,14,Wednesday,Afternoon,1
+C1296,2024-05-28,18:06,Austin,Teresa Harbors,Theft,Low,Arrest Made,2,18,Tuesday,Evening,1
+C1297,2025-01-24,17:16,Little Rock,Douglas Views,Homicide,High,Arrest Made,1,17,Friday,Evening,0
+C1298,2024-10-13,02:30,Kansas City,Jamie Stravenue,Assault,Medium,Arrest Made,1,2,Sunday,Night,0
+C1299,2025-02-08,02:00,Austin,Curtis Crescent,Vandalism,Low,Arrest Made,1,2,Saturday,Night,1
+C1300,2024-10-03,07:40,Dallas,Patterson Crossing,Fraud,Medium,Arrest Made,1,7,Thursday,Morning,1
+C1301,2025-01-13,15:06,Kansas City,Donna Fords,Vandalism,Low,Arrest Made,2,15,Monday,Afternoon,0
+C1302,2024-11-19,20:02,Austin,Hannah Mill,Drug Offense,Medium,No Arrest,0,20,Tuesday,Evening,1
+C1303,2025-01-16,07:19,Tulsa,Williams Streets,Theft,Low,No Arrest,0,7,Thursday,Morning,0
+C1304,2024-12-20,13:51,Austin,Goodman Springs,Vandalism,Low,Arrest Made,1,13,Friday,Afternoon,1
+C1305,2024-11-28,21:02,Little Rock,Bryant Crossroad,Theft,Low,Arrest Made,1,21,Thursday,Night,0
+C1306,2024-01-09,19:25,Tulsa,Castillo Valleys,Drug Offense,Medium,Arrest Made,1,19,Tuesday,Evening,0
+C1307,2024-05-09,03:42,San Antonio,Connie Throughway,Robbery,High,Arrest Made,2,3,Thursday,Night,1
+C1308,2024-02-24,19:01,Oklahoma City,Cook Grove,Fraud,Medium,Arrest Made,1,19,Saturday,Evening,1
+C1309,2025-05-22,02:06,Tulsa,Elizabeth Burgs,Assault,Medium,No Arrest,0,2,Thursday,Night,0
+C1310,2023-11-30,20:11,Houston,Emily Via,Theft,Low,Arrest Made,2,20,Thursday,Evening,1
+C1311,2024-04-13,09:39,Austin,Tanner Square,Robbery,High,Arrest Made,2,9,Saturday,Morning,1
+C1312,2024-12-11,15:02,Tulsa,Williams Corners,Assault,Medium,No Arrest,0,15,Wednesday,Afternoon,0
+C1313,2024-04-19,04:08,Tulsa,Jennifer Stravenue,Drug Offense,Medium,Arrest Made,1,4,Friday,Night,0
+C1314,2023-08-01,02:36,Tulsa,White Haven,Vandalism,Low,Arrest Made,1,2,Tuesday,Night,0
+C1315,2024-07-24,04:14,Austin,Edward Ford,Robbery,High,Arrest Made,2,4,Wednesday,Night,1
+C1316,2024-01-08,13:50,Oklahoma City,Williams Lane,Robbery,High,Arrest Made,2,13,Monday,Afternoon,1
+C1317,2023-12-02,21:02,Oklahoma City,Alexandria Centers,Vandalism,Low,Arrest Made,2,21,Saturday,Night,1
+C1318,2024-08-04,21:30,Dallas,Eric Motorway,Robbery,High,No Arrest,0,21,Sunday,Night,1
+C1319,2024-02-21,23:36,Houston,Tasha Fort,Theft,Low,Arrest Made,1,23,Wednesday,Night,1
+C1320,2024-03-01,01:09,Austin,Acosta Plaza,Theft,Low,Arrest Made,2,1,Friday,Night,1
+C1321,2023-08-03,13:56,Houston,Martha Glen,Homicide,High,Arrest Made,1,13,Thursday,Afternoon,1
+C1322,2023-08-05,10:12,San Antonio,Leblanc Alley,Theft,Low,No Arrest,0,10,Saturday,Morning,1
+C1323,2024-10-16,12:28,San Antonio,Hammond Underpass,Assault,Medium,No Arrest,0,12,Wednesday,Afternoon,1
+C1324,2023-10-21,02:15,Dallas,Daniel Ranch,Theft,Low,Arrest Made,1,2,Saturday,Night,1
+C1325,2024-10-11,10:57,Austin,Crosby Unions,Burglary,Medium,Arrest Made,1,10,Friday,Morning,1
+C1326,2024-03-01,11:49,San Antonio,Lin Lake,Drug Offense,Medium,Arrest Made,2,11,Friday,Morning,1
+C1327,2024-01-15,20:48,Austin,Carolyn Corners,Homicide,High,Arrest Made,1,20,Monday,Evening,1
+C1328,2023-07-09,15:17,Dallas,Heather Overpass,Vandalism,Low,Arrest Made,2,15,Sunday,Afternoon,1
+C1329,2024-07-03,17:25,Kansas City,Dean Light,Fraud,Medium,Arrest Made,1,17,Wednesday,Evening,0
+C1330,2025-04-20,21:56,Houston,Fleming Manor,Robbery,High,Arrest Made,1,21,Sunday,Night,1
+C1331,2023-10-23,23:10,Kansas City,Herrera Wall,Burglary,Medium,Arrest Made,2,23,Monday,Night,0
+C1332,2023-11-19,00:51,Tulsa,Melissa Run,Burglary,Medium,No Arrest,0,0,Sunday,Night,0
+C1333,2023-11-03,00:45,Tulsa,David Lights,Vandalism,Low,No Arrest,0,0,Friday,Night,0
+C1334,2025-02-03,17:20,Dallas,Smith Flat,Vandalism,Low,No Arrest,0,17,Monday,Evening,1
+C1335,2025-02-23,06:07,Dallas,Gutierrez Plains,Assault,Medium,Arrest Made,1,6,Sunday,Morning,1
+C1336,2023-11-16,23:47,Austin,Anthony Expressway,Robbery,High,Arrest Made,2,23,Thursday,Night,1
+C1337,2024-12-08,16:52,San Antonio,Dalton Station,Robbery,High,Arrest Made,2,16,Sunday,Afternoon,1
+C1338,2024-02-13,11:08,Kansas City,Alexander Well,Theft,Low,Arrest Made,2,11,Tuesday,Morning,0
+C1339,2024-07-23,06:49,Little Rock,Keith Drives,Homicide,High,Arrest Made,1,6,Tuesday,Morning,0
+C1340,2025-04-21,08:44,Houston,Debbie Port,Theft,Low,Arrest Made,2,8,Monday,Morning,1
+C1341,2024-11-15,16:12,San Antonio,Johnson Plains,Robbery,High,Arrest Made,1,16,Friday,Afternoon,1
+C1342,2025-01-01,00:48,Tulsa,Christine Junction,Burglary,Medium,Arrest Made,1,0,Wednesday,Night,0
+C1343,2024-11-30,14:44,Dallas,Hammond Hills,Vandalism,Low,No Arrest,0,14,Saturday,Afternoon,1
+C1344,2024-10-30,07:17,Oklahoma City,Robertson Mission,Vandalism,Low,Arrest Made,1,7,Wednesday,Morning,1
+C1345,2024-07-08,20:20,Houston,Shannon Mount,Vandalism,Low,Arrest Made,1,20,Monday,Evening,1
+C1346,2023-08-15,05:27,Austin,Robert Rapid,Drug Offense,Medium,Arrest Made,2,5,Tuesday,Morning,1
+C1347,2024-08-02,23:41,Austin,Alan Mountains,Burglary,Medium,No Arrest,0,23,Friday,Night,1
+C1348,2023-09-22,01:56,Tulsa,Phyllis Trail,Theft,Low,Arrest Made,2,1,Friday,Night,0
+C1349,2024-09-20,17:18,Tulsa,Ward Vista,Homicide,High,Arrest Made,1,17,Friday,Evening,0
+C1350,2024-06-27,07:55,Austin,David Mountains,Fraud,Medium,Arrest Made,1,7,Thursday,Morning,1
+C1351,2024-07-06,09:10,Tulsa,Smith Row,Vandalism,Low,Arrest Made,1,9,Saturday,Morning,0
+C1352,2025-06-07,00:33,Little Rock,Cindy Village,Drug Offense,Medium,No Arrest,0,0,Saturday,Night,0
+C1353,2024-10-22,02:47,Little Rock,Johnson River,Assault,Medium,Arrest Made,1,2,Tuesday,Night,0
+C1354,2025-02-06,13:10,Tulsa,William Expressway,Homicide,High,Arrest Made,1,13,Thursday,Afternoon,0
+C1355,2025-01-20,05:10,San Antonio,Robert Grove,Fraud,Medium,Arrest Made,1,5,Monday,Morning,1
+C1356,2025-06-01,09:23,Tulsa,Scott Extensions,Theft,Low,No Arrest,0,9,Sunday,Morning,0
+C1357,2024-11-14,08:22,Little Rock,Gonzalez Extension,Fraud,Medium,No Arrest,0,8,Thursday,Morning,0
+C1358,2024-09-13,10:35,Austin,Nguyen Mountains,Drug Offense,Medium,No Arrest,0,10,Friday,Morning,1
+C1359,2024-04-20,05:27,Houston,Cooper Drives,Robbery,High,Arrest Made,2,5,Saturday,Morning,1
+C1360,2025-01-11,23:03,Austin,Claire Forge,Burglary,Medium,No Arrest,0,23,Saturday,Night,1
+C1361,2024-11-15,21:13,Tulsa,Moore Creek,Assault,Medium,Arrest Made,2,21,Friday,Night,0
+C1362,2023-11-27,17:02,Kansas City,Mckinney Union,Drug Offense,Medium,Arrest Made,1,17,Monday,Evening,0
+C1363,2024-12-08,15:23,San Antonio,Andres Fall,Drug Offense,Medium,No Arrest,0,15,Sunday,Afternoon,1
+C1364,2023-10-09,23:29,Houston,Anderson Views,Fraud,Medium,Arrest Made,2,23,Monday,Night,1
+C1365,2025-01-13,15:17,Oklahoma City,Sarah Stravenue,Burglary,Medium,Arrest Made,2,15,Monday,Afternoon,1
+C1366,2023-07-13,20:00,Houston,Jason Corners,Fraud,Medium,Arrest Made,2,20,Thursday,Evening,1
+C1367,2025-02-27,15:02,Houston,Hansen Ferry,Theft,Low,Arrest Made,2,15,Thursday,Afternoon,1
+C1368,2023-07-16,08:28,Little Rock,Dunlap Spring,Homicide,High,Arrest Made,1,8,Sunday,Morning,0
+C1369,2025-04-21,04:46,Austin,Reeves Mountains,Drug Offense,Medium,No Arrest,0,4,Monday,Night,1
+C1370,2025-02-08,10:30,Kansas City,Michael Fords,Assault,Medium,Arrest Made,1,10,Saturday,Morning,0
+C1371,2024-09-11,05:24,Little Rock,Schwartz Forks,Assault,Medium,No Arrest,0,5,Wednesday,Morning,0
+C1372,2024-12-29,16:53,Tulsa,King Loaf,Homicide,High,Arrest Made,1,16,Sunday,Afternoon,0
+C1373,2023-11-11,13:18,San Antonio,Randy Route,Fraud,Medium,Arrest Made,1,13,Saturday,Afternoon,1
+C1374,2024-10-13,07:04,Houston,Austin Stream,Assault,Medium,Arrest Made,1,7,Sunday,Morning,1
+C1375,2024-09-17,12:42,Kansas City,Bush Coves,Burglary,Medium,Arrest Made,1,12,Tuesday,Afternoon,0
+C1376,2024-12-22,09:40,Austin,Jonathan Extension,Robbery,High,Arrest Made,2,9,Sunday,Morning,1
+C1377,2024-10-04,14:57,Dallas,Amanda Flats,Fraud,Medium,No Arrest,0,14,Friday,Afternoon,1
+C1378,2025-01-15,23:32,Houston,Melissa Centers,Vandalism,Low,Arrest Made,1,23,Wednesday,Night,1
+C1379,2025-03-03,10:58,Little Rock,Susan Road,Robbery,High,Arrest Made,1,10,Monday,Morning,0
+C1380,2023-07-30,22:24,San Antonio,Seth Loop,Vandalism,Low,Arrest Made,1,22,Sunday,Night,1
+C1381,2023-12-12,16:19,Little Rock,Miller Glen,Fraud,Medium,Arrest Made,1,16,Tuesday,Afternoon,0
+C1382,2023-09-19,13:48,Little Rock,Jacob Station,Assault,Medium,Arrest Made,1,13,Tuesday,Afternoon,0
+C1383,2025-02-17,21:39,Oklahoma City,Oscar Crossing,Robbery,High,Arrest Made,2,21,Monday,Night,1
+C1384,2023-07-01,17:34,Oklahoma City,Krueger Loop,Vandalism,Low,No Arrest,0,17,Saturday,Evening,1
+C1385,2024-03-04,05:54,Little Rock,Travis Valleys,Theft,Low,Arrest Made,1,5,Monday,Morning,0
+C1386,2025-01-19,00:37,San Antonio,Williams Spurs,Theft,Low,Arrest Made,1,0,Sunday,Night,1
+C1387,2025-01-20,20:59,Tulsa,Maria Courts,Assault,Medium,Arrest Made,1,20,Monday,Evening,0
+C1388,2024-08-21,01:33,Tulsa,Jay Knolls,Drug Offense,Medium,Arrest Made,1,1,Wednesday,Night,0
+C1389,2024-10-24,05:25,Oklahoma City,Denise Brook,Drug Offense,Medium,Arrest Made,1,5,Thursday,Morning,1
+C1390,2025-02-19,14:33,Austin,Matthew Inlet,Vandalism,Low,Arrest Made,1,14,Wednesday,Afternoon,1
+C1391,2025-03-14,12:22,Oklahoma City,Sarah Ferry,Vandalism,Low,No Arrest,0,12,Friday,Afternoon,1
+C1392,2024-07-18,01:05,Austin,Ward Unions,Robbery,High,Arrest Made,1,1,Thursday,Night,1
+C1393,2024-12-17,15:37,Kansas City,Clark Key,Drug Offense,Medium,No Arrest,0,15,Tuesday,Afternoon,0
+C1394,2023-12-25,12:53,Dallas,Grimes Meadow,Robbery,High,Arrest Made,1,12,Monday,Afternoon,1
+C1395,2023-11-06,03:06,Austin,Taylor Hollow,Drug Offense,Medium,No Arrest,0,3,Monday,Night,1
+C1396,2025-04-28,23:03,Little Rock,Matthew Course,Burglary,Medium,Arrest Made,1,23,Monday,Night,0
+C1397,2024-09-29,10:27,Kansas City,Phillip Throughway,Vandalism,Low,No Arrest,0,10,Sunday,Morning,0
+C1398,2024-11-01,11:03,Tulsa,Raymond Motorway,Robbery,High,Arrest Made,1,11,Friday,Morning,0
+C1399,2025-01-03,15:39,San Antonio,Hayes Mount,Vandalism,Low,Arrest Made,2,15,Friday,Afternoon,1
+C1400,2023-09-25,08:02,Kansas City,Cheryl Lodge,Vandalism,Low,No Arrest,0,8,Monday,Morning,0
+C1401,2025-03-21,08:11,Dallas,Wesley Estate,Vandalism,Low,Arrest Made,2,8,Friday,Morning,1
+C1402,2024-03-23,06:24,Kansas City,Julia Extension,Drug Offense,Medium,Arrest Made,1,6,Saturday,Morning,0
+C1403,2025-04-21,10:08,Tulsa,Robert Field,Vandalism,Low,Arrest Made,2,10,Monday,Morning,0
+C1404,2023-07-31,06:37,Little Rock,Catherine Crossroad,Robbery,High,Arrest Made,2,6,Monday,Morning,0
+C1405,2023-12-17,07:54,Oklahoma City,Nunez Key,Homicide,High,Arrest Made,1,7,Sunday,Morning,1
+C1406,2023-08-23,02:13,Oklahoma City,Stephanie Expressway,Homicide,High,Arrest Made,1,2,Wednesday,Night,1
+C1407,2023-07-20,03:45,Tulsa,Lawson Valleys,Vandalism,Low,Arrest Made,2,3,Thursday,Night,0
+C1408,2024-09-14,02:40,Tulsa,Thomas Forge,Burglary,Medium,No Arrest,0,2,Saturday,Night,0
+C1409,2024-04-25,21:36,Little Rock,Richardson Views,Fraud,Medium,Arrest Made,2,21,Thursday,Night,0
+C1410,2023-12-28,07:59,Dallas,Gutierrez Spurs,Homicide,High,Arrest Made,1,7,Thursday,Morning,1
+C1411,2024-05-28,15:08,Houston,Hayes Orchard,Assault,Medium,Arrest Made,2,15,Tuesday,Afternoon,1
+C1412,2023-12-04,12:52,Austin,John Trace,Theft,Low,Arrest Made,2,12,Monday,Afternoon,1
+C1413,2025-05-13,14:45,Kansas City,Payne Islands,Burglary,Medium,No Arrest,0,14,Tuesday,Afternoon,0
+C1414,2023-07-21,20:12,Austin,Powell Burg,Vandalism,Low,Arrest Made,1,20,Friday,Evening,1
+C1415,2024-09-25,15:18,Tulsa,Mercer Stream,Burglary,Medium,Arrest Made,1,15,Wednesday,Afternoon,0
+C1416,2025-01-09,00:06,Little Rock,Lori Way,Vandalism,Low,Arrest Made,2,0,Thursday,Night,0
+C1417,2023-06-16,07:17,Houston,Adam Branch,Theft,Low,Arrest Made,1,7,Friday,Morning,1
+C1418,2025-04-17,07:33,Austin,Morris Rest,Vandalism,Low,Arrest Made,1,7,Thursday,Morning,1
+C1419,2024-08-20,06:33,San Antonio,Ruiz Plains,Homicide,High,Arrest Made,1,6,Tuesday,Morning,1
+C1420,2024-09-04,08:30,Dallas,Russell Turnpike,Vandalism,Low,Arrest Made,1,8,Wednesday,Morning,1
+C1421,2023-06-22,13:03,Dallas,Gina Field,Assault,Medium,Arrest Made,2,13,Thursday,Afternoon,1
+C1422,2025-05-06,22:29,Kansas City,Nancy Glens,Homicide,High,Arrest Made,1,22,Tuesday,Night,0
+C1423,2023-08-11,07:49,Houston,Smith Square,Burglary,Medium,Arrest Made,2,7,Friday,Morning,1
+C1424,2025-04-21,16:59,Kansas City,Daniel Green,Burglary,Medium,Arrest Made,2,16,Monday,Afternoon,0
+C1425,2023-10-04,11:50,San Antonio,Richard Wells,Drug Offense,Medium,Arrest Made,1,11,Wednesday,Morning,1
+C1426,2025-05-07,14:48,Austin,Holly Forges,Robbery,High,No Arrest,0,14,Wednesday,Afternoon,1
+C1427,2024-07-22,01:09,Oklahoma City,Baker Spurs,Homicide,High,Arrest Made,1,1,Monday,Night,1
+C1428,2024-11-24,05:50,Dallas,Williams Rapids,Vandalism,Low,Arrest Made,1,5,Sunday,Morning,1
+C1429,2025-01-12,10:52,Little Rock,James Islands,Robbery,High,No Arrest,0,10,Sunday,Morning,0
+C1430,2024-06-17,21:38,Austin,Larry Club,Homicide,High,Arrest Made,1,21,Monday,Night,1
+C1431,2024-10-12,02:59,Austin,Henry Lodge,Drug Offense,Medium,Arrest Made,1,2,Saturday,Night,1
+C1432,2023-12-23,23:20,San Antonio,Fred Trace,Drug Offense,Medium,No Arrest,0,23,Saturday,Night,1
+C1433,2024-05-20,05:10,Dallas,Shannon Locks,Burglary,Medium,Arrest Made,1,5,Monday,Morning,1
+C1434,2024-01-10,01:15,Tulsa,Lopez Coves,Drug Offense,Medium,No Arrest,0,1,Wednesday,Night,0
+C1435,2023-09-11,11:14,San Antonio,Erica Valleys,Vandalism,Low,No Arrest,0,11,Monday,Morning,1
+C1436,2024-06-26,02:29,Austin,Clark Plaza,Homicide,High,Arrest Made,1,2,Wednesday,Night,1
+C1437,2024-12-03,09:32,Dallas,Coleman Falls,Robbery,High,No Arrest,0,9,Tuesday,Morning,1
+C1438,2024-04-07,05:15,Little Rock,Kyle Ports,Assault,Medium,Arrest Made,1,5,Sunday,Morning,0
+C1439,2025-03-18,10:07,Little Rock,Perez Key,Fraud,Medium,No Arrest,0,10,Tuesday,Morning,0
+C1440,2024-04-13,00:35,Dallas,Emily Avenue,Theft,Low,Arrest Made,1,0,Saturday,Night,1
+C1441,2024-09-28,16:09,San Antonio,Sydney Ranch,Theft,Low,Arrest Made,2,16,Saturday,Afternoon,1
+C1442,2024-04-18,00:48,Little Rock,Gomez Burg,Homicide,High,Arrest Made,1,0,Thursday,Night,0
+C1443,2025-02-11,07:50,Houston,Ramos Key,Fraud,Medium,No Arrest,0,7,Tuesday,Morning,1
+C1444,2023-08-22,01:42,Austin,Lozano Crossing,Homicide,High,Arrest Made,1,1,Tuesday,Night,1
+C1445,2023-10-21,01:12,Austin,Rice Views,Drug Offense,Medium,No Arrest,0,1,Saturday,Night,1
+C1446,2024-07-25,10:28,Austin,Myers Alley,Vandalism,Low,Arrest Made,1,10,Thursday,Morning,1
+C1447,2024-03-19,15:21,San Antonio,Corey Plaza,Theft,Low,Arrest Made,1,15,Tuesday,Afternoon,1
+C1448,2025-02-23,15:19,Kansas City,Latoya Plains,Fraud,Medium,Arrest Made,2,15,Sunday,Afternoon,0
+C1449,2024-08-21,07:23,Dallas,Mark Ramp,Drug Offense,Medium,No Arrest,0,7,Wednesday,Morning,1
+C1450,2023-09-07,21:23,San Antonio,Matthew Squares,Robbery,High,No Arrest,0,21,Thursday,Night,1
+C1451,2024-01-27,11:37,Oklahoma City,Deborah Motorway,Drug Offense,Medium,Arrest Made,1,11,Saturday,Morning,1
+C1452,2024-01-19,21:04,Little Rock,Roth Ville,Assault,Medium,Arrest Made,2,21,Friday,Night,0
+C1453,2024-09-04,21:15,Austin,James Trafficway,Vandalism,Low,Arrest Made,1,21,Wednesday,Night,1
+C1454,2024-12-31,16:53,Houston,Amy Rue,Drug Offense,Medium,No Arrest,0,16,Tuesday,Afternoon,1
+C1455,2023-11-23,19:11,Austin,Dennis Lodge,Assault,Medium,Arrest Made,1,19,Thursday,Evening,1
+C1456,2024-11-10,09:59,Houston,Kidd Springs,Drug Offense,Medium,Arrest Made,1,9,Sunday,Morning,1
+C1457,2025-03-11,12:45,San Antonio,Carrillo Viaduct,Robbery,High,No Arrest,0,12,Tuesday,Afternoon,1
+C1458,2025-01-05,17:27,Little Rock,Curtis Drives,Burglary,Medium,Arrest Made,2,17,Sunday,Evening,0
+C1459,2024-02-12,20:28,Austin,Emma Wells,Assault,Medium,Arrest Made,1,20,Monday,Evening,1
+C1460,2024-01-12,03:10,Kansas City,Porter Drives,Burglary,Medium,Arrest Made,1,3,Friday,Night,0
+C1461,2024-11-28,23:14,Tulsa,Brown Creek,Robbery,High,No Arrest,0,23,Thursday,Night,0
+C1462,2024-11-30,11:46,Little Rock,Morgan Union,Theft,Low,No Arrest,0,11,Saturday,Morning,0
+C1463,2024-03-17,23:54,Tulsa,Ashley Streets,Fraud,Medium,No Arrest,0,23,Sunday,Night,0
+C1464,2024-10-10,09:26,San Antonio,Williams Parkways,Homicide,High,Arrest Made,1,9,Thursday,Morning,1
+C1465,2025-02-18,15:04,Tulsa,Audrey Plaza,Drug Offense,Medium,No Arrest,0,15,Tuesday,Afternoon,0
+C1466,2024-11-12,15:14,Little Rock,Charles Street,Homicide,High,Arrest Made,1,15,Tuesday,Afternoon,0
+C1467,2025-03-04,23:52,Houston,Keith Valley,Fraud,Medium,No Arrest,0,23,Tuesday,Night,1
+C1468,2024-09-08,21:57,Little Rock,Sanford Mountain,Theft,Low,No Arrest,0,21,Sunday,Night,0
+C1469,2024-05-09,08:16,Dallas,Benjamin Spur,Theft,Low,Arrest Made,2,8,Thursday,Morning,1
+C1470,2023-12-22,21:32,Tulsa,Anderson Meadows,Assault,Medium,No Arrest,0,21,Friday,Night,0
+C1471,2024-07-14,02:20,Dallas,Diana Trafficway,Assault,Medium,No Arrest,0,2,Sunday,Night,1
+C1472,2025-05-02,01:48,Oklahoma City,Deleon Roads,Robbery,High,No Arrest,0,1,Friday,Night,1
+C1473,2025-02-14,04:16,San Antonio,Ariel Forges,Fraud,Medium,Arrest Made,1,4,Friday,Night,1
+C1474,2024-01-21,13:42,Kansas City,Montgomery Locks,Vandalism,Low,Arrest Made,1,13,Sunday,Afternoon,0
+C1475,2025-02-13,18:24,Tulsa,Ortega Skyway,Fraud,Medium,No Arrest,0,18,Thursday,Evening,0
+C1476,2023-07-04,18:32,Houston,Patrick Trace,Drug Offense,Medium,Arrest Made,1,18,Tuesday,Evening,1
+C1477,2024-04-03,15:10,Houston,Savage Underpass,Theft,Low,Arrest Made,2,15,Wednesday,Afternoon,1
+C1478,2023-10-08,08:25,San Antonio,Michelle Ramp,Assault,Medium,Arrest Made,2,8,Sunday,Morning,1
+C1479,2024-08-17,00:39,Tulsa,Ross Hills,Homicide,High,Arrest Made,1,0,Saturday,Night,0
+C1480,2025-05-13,12:37,Tulsa,Susan Station,Burglary,Medium,No Arrest,0,12,Tuesday,Afternoon,0
+C1481,2025-02-23,16:32,Kansas City,Parks Expressway,Homicide,High,Arrest Made,1,16,Sunday,Afternoon,0
+C1482,2023-10-18,17:27,Kansas City,Lopez Prairie,Vandalism,Low,Arrest Made,2,17,Wednesday,Evening,0
+C1483,2024-03-08,22:03,Austin,Morales Manor,Fraud,Medium,Arrest Made,1,22,Friday,Night,1
+C1484,2024-05-02,19:02,Tulsa,Alexander Ridge,Theft,Low,Arrest Made,1,19,Thursday,Evening,0
+C1485,2024-12-01,20:11,Houston,Gabriel Island,Burglary,Medium,No Arrest,0,20,Sunday,Evening,1
+C1486,2023-09-17,00:38,San Antonio,Kennedy Cliff,Fraud,Medium,Arrest Made,1,0,Sunday,Night,1
+C1487,2024-11-14,18:19,Oklahoma City,Reynolds Ville,Homicide,High,Arrest Made,1,18,Thursday,Evening,1
+C1488,2024-06-27,18:40,Little Rock,John Trafficway,Drug Offense,Medium,No Arrest,0,18,Thursday,Evening,0
+C1489,2024-04-04,11:16,Tulsa,Bonilla Landing,Assault,Medium,Arrest Made,1,11,Thursday,Morning,0
+C1490,2025-05-08,15:20,Tulsa,Dawn Camp,Assault,Medium,Arrest Made,2,15,Thursday,Afternoon,0
+C1491,2025-03-01,18:23,Little Rock,Smith Tunnel,Burglary,Medium,Arrest Made,1,18,Saturday,Evening,0
+C1492,2024-06-02,15:29,Oklahoma City,Isaac Estate,Homicide,High,Arrest Made,1,15,Sunday,Afternoon,1
+C1493,2024-09-08,20:54,Austin,Joshua Villages,Vandalism,Low,Arrest Made,2,20,Sunday,Evening,1
+C1494,2025-04-28,05:14,San Antonio,Newton Ridge,Robbery,High,Arrest Made,2,5,Monday,Morning,1
+C1495,2023-07-05,07:09,San Antonio,Jacobs Lake,Fraud,Medium,Arrest Made,1,7,Wednesday,Morning,1
+C1496,2024-11-28,09:26,Little Rock,Roger Park,Burglary,Medium,No Arrest,0,9,Thursday,Morning,0
+C1497,2023-11-19,16:40,Oklahoma City,John Oval,Burglary,Medium,No Arrest,0,16,Sunday,Afternoon,1
+C1498,2024-07-09,19:52,Tulsa,Pham Road,Robbery,High,No Arrest,0,19,Tuesday,Evening,0
+C1499,2025-05-20,08:52,Tulsa,Michelle Street,Theft,Low,No Arrest,0,8,Tuesday,Morning,0
+C1500,2025-06-09,20:30,San Antonio,Timothy Courts,Assault,Medium,No Arrest,0,20,Monday,Evening,1
+C1501,2024-11-13,11:41,San Antonio,Amber Turnpike,Theft,Low,Arrest Made,2,11,Wednesday,Morning,1
+C1502,2025-01-02,11:47,San Antonio,Misty Burgs,Homicide,High,Arrest Made,1,11,Thursday,Morning,1
+C1503,2024-01-02,03:20,Oklahoma City,Walker Fort,Assault,Medium,No Arrest,0,3,Tuesday,Night,1
+C1504,2023-10-07,21:50,San Antonio,Steven Terrace,Vandalism,Low,Arrest Made,1,21,Saturday,Night,1
+C1505,2023-08-02,07:37,Austin,Harrison Falls,Homicide,High,Arrest Made,1,7,Wednesday,Morning,1
+C1506,2023-10-24,01:46,Austin,Robert Stream,Burglary,Medium,Arrest Made,2,1,Tuesday,Night,1
+C1507,2024-09-22,01:13,Little Rock,Mary Curve,Robbery,High,Arrest Made,1,1,Sunday,Night,0
+C1508,2023-06-26,11:46,Little Rock,Gates Meadows,Drug Offense,Medium,Arrest Made,1,11,Monday,Morning,0
+C1509,2024-10-29,21:51,Kansas City,Andrew Lane,Robbery,High,Arrest Made,2,21,Tuesday,Night,0
+C1510,2024-05-14,07:16,Houston,Ramos Road,Assault,Medium,Arrest Made,2,7,Tuesday,Morning,1
+C1511,2023-08-29,11:42,Dallas,Martin Tunnel,Burglary,Medium,Arrest Made,1,11,Tuesday,Morning,1
+C1512,2024-08-31,05:44,Little Rock,Stephen Key,Fraud,Medium,Arrest Made,2,5,Saturday,Morning,0
+C1513,2024-11-05,13:35,Houston,Young Mews,Vandalism,Low,No Arrest,0,13,Tuesday,Afternoon,1
+C1514,2024-11-03,10:06,Oklahoma City,Munoz Extension,Theft,Low,No Arrest,0,10,Sunday,Morning,1
+C1515,2024-05-29,03:38,Austin,Suarez Glens,Fraud,Medium,Arrest Made,2,3,Wednesday,Night,1
+C1516,2023-12-12,21:09,Kansas City,Frank Loaf,Burglary,Medium,Arrest Made,2,21,Tuesday,Night,0
+C1517,2024-01-01,17:29,San Antonio,Snyder Parks,Vandalism,Low,Arrest Made,1,17,Monday,Evening,1
+C1518,2024-05-13,03:02,Austin,Davis Shoal,Fraud,Medium,Arrest Made,2,3,Monday,Night,1
+C1519,2024-12-13,19:20,Dallas,Steven Overpass,Theft,Low,No Arrest,0,19,Friday,Evening,1
+C1520,2025-04-16,21:47,Dallas,Rodriguez Forks,Theft,Low,No Arrest,0,21,Wednesday,Night,1
+C1521,2024-10-14,12:03,Kansas City,Wendy Plaza,Drug Offense,Medium,No Arrest,0,12,Monday,Afternoon,0
+C1522,2024-10-22,20:49,Little Rock,Joseph Throughway,Vandalism,Low,No Arrest,0,20,Tuesday,Evening,0
+C1523,2025-02-10,10:07,Houston,Wiggins River,Fraud,Medium,No Arrest,0,10,Monday,Morning,1
+C1524,2024-07-16,13:33,Tulsa,Amanda Station,Drug Offense,Medium,Arrest Made,2,13,Tuesday,Afternoon,0
+C1525,2025-05-10,23:52,Kansas City,Ramirez Fall,Robbery,High,No Arrest,0,23,Saturday,Night,0
+C1526,2025-04-18,10:44,San Antonio,Renee Ranch,Robbery,High,No Arrest,0,10,Friday,Morning,1
+C1527,2024-07-18,10:43,Austin,Doris Falls,Robbery,High,Arrest Made,1,10,Thursday,Morning,1
+C1528,2023-11-28,03:50,Little Rock,Beasley Motorway,Burglary,Medium,No Arrest,0,3,Tuesday,Night,0
+C1529,2025-01-30,14:28,Little Rock,Tammie Locks,Burglary,Medium,Arrest Made,2,14,Thursday,Afternoon,0
+C1530,2024-04-22,12:57,Houston,Nicholas Field,Burglary,Medium,No Arrest,0,12,Monday,Afternoon,1
+C1531,2025-01-04,06:48,Houston,Weber Rapids,Fraud,Medium,Arrest Made,2,6,Saturday,Morning,1
+C1532,2023-10-13,11:19,Dallas,Sarah Village,Fraud,Medium,Arrest Made,2,11,Friday,Morning,1
+C1533,2024-02-12,11:38,Dallas,Sarah Burgs,Drug Offense,Medium,Arrest Made,2,11,Monday,Morning,1
+C1534,2024-07-15,07:37,Tulsa,Schmidt Hills,Theft,Low,No Arrest,0,7,Monday,Morning,0
+C1535,2025-02-27,14:58,Little Rock,Derrick Valley,Drug Offense,Medium,Arrest Made,2,14,Thursday,Afternoon,0
+C1536,2024-01-29,06:52,Dallas,Gregory Canyon,Assault,Medium,Arrest Made,2,6,Monday,Morning,1
+C1537,2024-03-16,17:28,Kansas City,Eric Oval,Theft,Low,Arrest Made,2,17,Saturday,Evening,0
+C1538,2025-01-03,17:24,Austin,Sabrina Rest,Burglary,Medium,Arrest Made,1,17,Friday,Evening,1
+C1539,2024-07-13,13:55,Oklahoma City,Tammy Cliffs,Drug Offense,Medium,Arrest Made,2,13,Saturday,Afternoon,1
+C1540,2025-03-19,08:21,San Antonio,Jesse Meadow,Burglary,Medium,Arrest Made,2,8,Wednesday,Morning,1
+C1541,2024-02-14,08:20,Oklahoma City,Morton Village,Drug Offense,Medium,Arrest Made,1,8,Wednesday,Morning,1
+C1542,2024-07-30,01:45,San Antonio,Ryan Forge,Burglary,Medium,Arrest Made,1,1,Tuesday,Night,1
+C1543,2024-12-09,08:53,Kansas City,Wesley Trail,Vandalism,Low,Arrest Made,2,8,Monday,Morning,0
+C1544,2024-06-04,12:34,Tulsa,Keller Bypass,Burglary,Medium,Arrest Made,2,12,Tuesday,Afternoon,0
+C1545,2024-09-01,09:02,Kansas City,Alexandra Streets,Robbery,High,No Arrest,0,9,Sunday,Morning,0
+C1546,2024-09-01,16:19,Oklahoma City,Laura Mountains,Burglary,Medium,Arrest Made,2,16,Sunday,Afternoon,1
+C1547,2024-11-01,22:09,San Antonio,Joseph Freeway,Burglary,Medium,No Arrest,0,22,Friday,Night,1
+C1548,2023-12-02,03:28,Little Rock,Cardenas Rapid,Robbery,High,Arrest Made,1,3,Saturday,Night,0
+C1549,2023-11-27,23:48,Houston,Erica Greens,Robbery,High,No Arrest,0,23,Monday,Night,1
+C1550,2025-01-12,18:33,Little Rock,Anne Views,Burglary,Medium,Arrest Made,1,18,Sunday,Evening,0
+C1551,2023-07-09,10:43,Tulsa,Carpenter Extensions,Homicide,High,Arrest Made,1,10,Sunday,Morning,0
+C1552,2024-05-08,22:58,Austin,Bethany Mountain,Assault,Medium,Arrest Made,2,22,Wednesday,Night,1
+C1553,2025-03-24,04:12,Houston,Ellen Island,Theft,Low,No Arrest,0,4,Monday,Night,1
+C1554,2024-04-16,10:52,Kansas City,Evans Loaf,Vandalism,Low,No Arrest,0,10,Tuesday,Morning,0
+C1555,2024-06-07,18:32,Kansas City,Olivia Pine,Fraud,Medium,Arrest Made,2,18,Friday,Evening,0
+C1556,2025-06-10,02:12,Austin,Mary Falls,Drug Offense,Medium,Arrest Made,1,2,Tuesday,Night,1
+C1557,2024-03-03,20:40,Kansas City,Hill Skyway,Burglary,Medium,No Arrest,0,20,Sunday,Evening,0
+C1558,2024-02-17,10:47,Tulsa,Torres Stravenue,Assault,Medium,Arrest Made,1,10,Saturday,Morning,0
+C1559,2023-12-04,04:47,Tulsa,Peterson Ramp,Burglary,Medium,Arrest Made,2,4,Monday,Night,0
+C1560,2024-06-04,22:02,Kansas City,Mcknight Square,Assault,Medium,Arrest Made,2,22,Tuesday,Night,0
+C1561,2025-02-18,18:19,Oklahoma City,Gill Expressway,Homicide,High,Arrest Made,1,18,Tuesday,Evening,1
+C1562,2023-11-22,04:21,Houston,Hernandez Mount,Homicide,High,Arrest Made,1,4,Wednesday,Night,1
+C1563,2024-01-03,10:23,Kansas City,Palmer Crossroad,Robbery,High,Arrest Made,2,10,Wednesday,Morning,0
+C1564,2024-08-28,06:09,Dallas,Townsend Ridges,Assault,Medium,No Arrest,0,6,Wednesday,Morning,1
+C1565,2023-09-11,22:26,Oklahoma City,Olson Landing,Assault,Medium,Arrest Made,1,22,Monday,Night,1
+C1566,2024-04-26,05:41,San Antonio,William Rest,Assault,Medium,No Arrest,0,5,Friday,Morning,1
+C1567,2025-03-17,12:50,Oklahoma City,Michelle Stravenue,Assault,Medium,No Arrest,0,12,Monday,Afternoon,1
+C1568,2024-04-11,05:17,Kansas City,Hannah Square,Burglary,Medium,Arrest Made,1,5,Thursday,Morning,0
+C1569,2024-04-06,18:56,Austin,Frost Center,Robbery,High,Arrest Made,1,18,Saturday,Evening,1
+C1570,2024-01-21,20:43,Tulsa,Davis Crescent,Assault,Medium,No Arrest,0,20,Sunday,Evening,0
+C1571,2024-10-07,08:13,Kansas City,John Ports,Burglary,Medium,No Arrest,0,8,Monday,Morning,0
+C1572,2023-11-06,04:07,Dallas,Richard Trace,Robbery,High,No Arrest,0,4,Monday,Night,1
+C1573,2023-11-30,20:57,Houston,Wilson Ports,Theft,Low,Arrest Made,2,20,Thursday,Evening,1
+C1574,2023-10-04,17:56,Dallas,Stevens Walk,Drug Offense,Medium,Arrest Made,2,17,Wednesday,Evening,1
+C1575,2025-03-23,15:39,Houston,Kelly Courts,Drug Offense,Medium,Arrest Made,1,15,Sunday,Afternoon,1
+C1576,2024-02-15,18:54,Kansas City,Hayden Pike,Burglary,Medium,Arrest Made,2,18,Thursday,Evening,0
+C1577,2023-12-27,20:48,Tulsa,Harris Parkway,Vandalism,Low,Arrest Made,1,20,Wednesday,Evening,0
+C1578,2024-11-03,09:13,Houston,Robert Haven,Theft,Low,Arrest Made,2,9,Sunday,Morning,1
+C1579,2025-04-02,14:41,Little Rock,Jennings Burgs,Theft,Low,No Arrest,0,14,Wednesday,Afternoon,0
+C1580,2024-09-16,20:48,Dallas,Martin Manor,Fraud,Medium,Arrest Made,1,20,Monday,Evening,1
+C1581,2024-11-18,04:15,Oklahoma City,Ashley Burg,Drug Offense,Medium,No Arrest,0,4,Monday,Night,1
+C1582,2025-04-09,03:36,San Antonio,Amanda Fields,Theft,Low,No Arrest,0,3,Wednesday,Night,1
+C1583,2024-04-28,04:22,Austin,Scott Vista,Vandalism,Low,No Arrest,0,4,Sunday,Night,1
+C1584,2024-10-08,21:54,Kansas City,Morris Square,Assault,Medium,No Arrest,0,21,Tuesday,Night,0
+C1585,2024-12-22,19:42,San Antonio,Stacie Mount,Burglary,Medium,Arrest Made,2,19,Sunday,Evening,1
+C1586,2024-05-14,09:54,Little Rock,Barry Land,Burglary,Medium,Arrest Made,2,9,Tuesday,Morning,0
+C1587,2024-10-27,22:25,Dallas,Danielle Circles,Homicide,High,Arrest Made,1,22,Sunday,Night,1
+C1588,2024-07-11,21:05,Houston,Gonzalez Fork,Drug Offense,Medium,No Arrest,0,21,Thursday,Night,1
+C1589,2024-05-12,17:54,Austin,Cunningham View,Theft,Low,Arrest Made,2,17,Sunday,Evening,1
+C1590,2024-07-17,07:30,Houston,Collins Shore,Vandalism,Low,Arrest Made,1,7,Wednesday,Morning,1
+C1591,2024-05-09,06:57,Kansas City,Jason Square,Burglary,Medium,No Arrest,0,6,Thursday,Morning,0
+C1592,2024-10-24,16:20,Little Rock,Matthew Parks,Robbery,High,Arrest Made,1,16,Thursday,Afternoon,0
+C1593,2025-03-22,13:30,Dallas,Thompson Walk,Fraud,Medium,Arrest Made,2,13,Saturday,Afternoon,1
+C1594,2024-06-04,17:34,Austin,Barron River,Burglary,Medium,No Arrest,0,17,Tuesday,Evening,1
+C1595,2025-01-10,22:15,Kansas City,Roberto Fall,Drug Offense,Medium,Arrest Made,2,22,Friday,Night,0
+C1596,2024-02-12,13:00,Dallas,Alice Key,Assault,Medium,Arrest Made,1,13,Monday,Afternoon,1
+C1597,2023-07-31,06:40,Austin,Williams Coves,Burglary,Medium,No Arrest,0,6,Monday,Morning,1
+C1598,2025-04-08,16:33,Dallas,Erica Overpass,Drug Offense,Medium,Arrest Made,1,16,Tuesday,Afternoon,1
+C1599,2024-10-12,03:14,Little Rock,Eric Vista,Theft,Low,Arrest Made,1,3,Saturday,Night,0
+C1600,2023-07-13,10:34,Houston,Howard Via,Assault,Medium,Arrest Made,2,10,Thursday,Morning,1
+C1601,2024-11-01,20:49,San Antonio,Moran Falls,Robbery,High,No Arrest,0,20,Friday,Evening,1
+C1602,2024-07-08,04:58,Dallas,Evans Burg,Homicide,High,Arrest Made,1,4,Monday,Night,1
+C1603,2024-01-02,23:30,San Antonio,Gonzalez Park,Fraud,Medium,Arrest Made,1,23,Tuesday,Night,1
+C1604,2025-02-23,20:48,Oklahoma City,Harmon Place,Theft,Low,Arrest Made,2,20,Sunday,Evening,1
+C1605,2025-02-07,00:19,Austin,Dunn Burgs,Assault,Medium,Arrest Made,1,0,Friday,Night,1
+C1606,2025-01-10,15:17,San Antonio,Ward Hollow,Drug Offense,Medium,Arrest Made,1,15,Friday,Afternoon,1
+C1607,2025-05-22,01:25,Tulsa,Anthony Road,Drug Offense,Medium,Arrest Made,2,1,Thursday,Night,0
+C1608,2025-06-08,03:10,Tulsa,Aaron Burgs,Homicide,High,Arrest Made,1,3,Sunday,Night,0
+C1609,2023-09-01,22:46,Little Rock,Shelton Viaduct,Burglary,Medium,No Arrest,0,22,Friday,Night,0
+C1610,2023-08-30,13:40,Oklahoma City,Reid Path,Robbery,High,Arrest Made,2,13,Wednesday,Afternoon,1
+C1611,2023-12-27,01:16,Tulsa,Devin Place,Fraud,Medium,Arrest Made,1,1,Wednesday,Night,0
+C1612,2023-11-30,03:08,Tulsa,Bonnie Landing,Vandalism,Low,Arrest Made,1,3,Thursday,Night,0
+C1613,2025-06-02,00:42,Kansas City,Patrick Isle,Drug Offense,Medium,Arrest Made,1,0,Monday,Night,0
+C1614,2025-01-13,02:33,San Antonio,Gregory Highway,Burglary,Medium,Arrest Made,2,2,Monday,Night,1
+C1615,2024-02-03,16:32,Little Rock,Morse Burg,Theft,Low,No Arrest,0,16,Saturday,Afternoon,0
+C1616,2023-08-27,03:55,Tulsa,Anthony Mountains,Assault,Medium,Arrest Made,1,3,Sunday,Night,0
+C1617,2023-12-19,11:33,Dallas,Gonzales Shore,Homicide,High,Arrest Made,1,11,Tuesday,Morning,1
+C1618,2023-11-13,09:32,Tulsa,Kerri Forges,Theft,Low,No Arrest,0,9,Monday,Morning,0
+C1619,2024-04-02,10:02,Kansas City,Martinez Alley,Burglary,Medium,Arrest Made,1,10,Tuesday,Morning,0
+C1620,2024-08-10,19:52,Dallas,Brian Loop,Theft,Low,No Arrest,0,19,Saturday,Evening,1
+C1621,2024-01-25,20:50,Dallas,Dean Hill,Theft,Low,Arrest Made,1,20,Thursday,Evening,1
+C1622,2023-11-24,22:09,Austin,Mary Mission,Vandalism,Low,No Arrest,0,22,Friday,Night,1
+C1623,2024-06-08,00:42,Oklahoma City,Cory Ways,Homicide,High,Arrest Made,1,0,Saturday,Night,1
+C1624,2024-11-26,07:02,Austin,Strickland Bypass,Assault,Medium,Arrest Made,2,7,Tuesday,Morning,1
+C1625,2023-10-10,11:49,San Antonio,Daniel Rest,Fraud,Medium,Arrest Made,1,11,Tuesday,Morning,1
+C1626,2025-02-03,12:05,Dallas,Nguyen Ports,Assault,Medium,No Arrest,0,12,Monday,Afternoon,1
+C1627,2024-12-06,09:01,Little Rock,Alicia Pines,Vandalism,Low,Arrest Made,1,9,Friday,Morning,0
+C1628,2025-04-16,07:21,Tulsa,John Pine,Fraud,Medium,Arrest Made,1,7,Wednesday,Morning,0
+C1629,2024-04-01,10:08,Kansas City,Smith Locks,Fraud,Medium,Arrest Made,2,10,Monday,Morning,0
+C1630,2024-03-10,22:27,Tulsa,Schmitt Vista,Theft,Low,Arrest Made,1,22,Sunday,Night,0
+C1631,2023-12-20,22:02,Oklahoma City,Martinez Hills,Vandalism,Low,No Arrest,0,22,Wednesday,Night,1
+C1632,2024-01-14,22:42,Houston,Samuel Mall,Drug Offense,Medium,No Arrest,0,22,Sunday,Night,1
+C1633,2024-04-03,22:12,San Antonio,William Run,Theft,Low,No Arrest,0,22,Wednesday,Night,1
+C1634,2023-08-18,03:44,San Antonio,Rice Brook,Fraud,Medium,Arrest Made,2,3,Friday,Night,1
+C1635,2024-04-30,08:02,Houston,Hutchinson Route,Fraud,Medium,Arrest Made,1,8,Tuesday,Morning,1
+C1636,2024-07-10,11:21,San Antonio,Lucas Knoll,Theft,Low,Arrest Made,1,11,Wednesday,Morning,1
+C1637,2024-11-26,16:38,San Antonio,Blake Track,Burglary,Medium,Arrest Made,2,16,Tuesday,Afternoon,1
+C1638,2025-03-21,04:06,Austin,Sarah Knolls,Drug Offense,Medium,No Arrest,0,4,Friday,Night,1
+C1639,2025-04-04,15:35,Little Rock,Martin Mills,Assault,Medium,Arrest Made,1,15,Friday,Afternoon,0
+C1640,2024-11-12,17:45,Houston,Clark Turnpike,Vandalism,Low,Arrest Made,2,17,Tuesday,Evening,1
+C1641,2023-07-10,00:19,Dallas,Desiree Ranch,Fraud,Medium,Arrest Made,1,0,Monday,Night,1
+C1642,2023-10-07,01:15,Oklahoma City,Lee Views,Vandalism,Low,No Arrest,0,1,Saturday,Night,1
+C1643,2024-11-26,19:43,Little Rock,White Roads,Assault,Medium,No Arrest,0,19,Tuesday,Evening,0
+C1644,2023-10-21,04:17,Dallas,John Ridges,Assault,Medium,Arrest Made,2,4,Saturday,Night,1
+C1645,2024-06-26,20:08,Houston,Carla Pine,Drug Offense,Medium,No Arrest,0,20,Wednesday,Evening,1
+C1646,2024-01-22,22:09,Oklahoma City,Owens Isle,Theft,Low,No Arrest,0,22,Monday,Night,1
+C1647,2024-08-21,00:43,Kansas City,Valencia Tunnel,Homicide,High,Arrest Made,1,0,Wednesday,Night,0
+C1648,2024-02-27,00:30,Austin,Monica Crescent,Drug Offense,Medium,Arrest Made,1,0,Tuesday,Night,1
+C1649,2025-03-20,20:53,Tulsa,Briggs Drive,Burglary,Medium,No Arrest,0,20,Thursday,Evening,0
+C1650,2023-10-20,16:57,Dallas,Fisher Via,Robbery,High,Arrest Made,2,16,Friday,Afternoon,1
+C1651,2024-05-13,20:05,Austin,Kristi Stream,Fraud,Medium,Arrest Made,2,20,Monday,Evening,1
+C1652,2024-07-04,06:43,Austin,Richardson Place,Assault,Medium,No Arrest,0,6,Thursday,Morning,1
+C1653,2024-02-10,14:37,Kansas City,Paula Motorway,Assault,Medium,Arrest Made,2,14,Saturday,Afternoon,0
+C1654,2023-08-12,14:04,Dallas,Jasmine Gardens,Drug Offense,Medium,Arrest Made,1,14,Saturday,Afternoon,1
+C1655,2023-07-08,10:02,Tulsa,Julia Grove,Fraud,Medium,Arrest Made,2,10,Saturday,Morning,0
+C1656,2024-05-16,18:08,Oklahoma City,James Mews,Burglary,Medium,Arrest Made,1,18,Thursday,Evening,1
+C1657,2024-09-15,08:17,Tulsa,Garza Valleys,Vandalism,Low,Arrest Made,2,8,Sunday,Morning,0
+C1658,2024-07-16,02:59,Kansas City,Wilson Views,Vandalism,Low,Arrest Made,1,2,Tuesday,Night,0
+C1659,2023-10-05,23:40,San Antonio,Montgomery Park,Drug Offense,Medium,No Arrest,0,23,Thursday,Night,1
+C1660,2024-08-31,10:32,Houston,Jennifer Pass,Assault,Medium,Arrest Made,2,10,Saturday,Morning,1
+C1661,2024-03-15,14:25,Little Rock,Caleb Avenue,Assault,Medium,Arrest Made,2,14,Friday,Afternoon,0
+C1662,2023-06-28,20:15,San Antonio,Adam Trail,Drug Offense,Medium,Arrest Made,2,20,Wednesday,Evening,1
+C1663,2025-06-05,04:59,Oklahoma City,Carl Forge,Fraud,Medium,No Arrest,0,4,Thursday,Night,1
+C1664,2024-05-28,09:22,San Antonio,Greg Vista,Assault,Medium,Arrest Made,2,9,Tuesday,Morning,1
+C1665,2025-05-16,05:46,Houston,Myers Mountains,Theft,Low,Arrest Made,2,5,Friday,Morning,1
+C1666,2023-12-14,02:52,Austin,Kyle Summit,Assault,Medium,Arrest Made,2,2,Thursday,Night,1
+C1667,2023-07-23,12:28,Tulsa,Rodriguez Mill,Drug Offense,Medium,Arrest Made,1,12,Sunday,Afternoon,0
+C1668,2025-05-06,11:22,Houston,Douglas Centers,Homicide,High,Arrest Made,1,11,Tuesday,Morning,1
+C1669,2023-12-27,21:15,Tulsa,Williams Roads,Vandalism,Low,No Arrest,0,21,Wednesday,Night,0
+C1670,2025-05-18,10:32,Dallas,Christopher Manors,Robbery,High,Arrest Made,1,10,Sunday,Morning,1
+C1671,2024-11-29,07:48,Oklahoma City,Bryant Tunnel,Robbery,High,No Arrest,0,7,Friday,Morning,1
+C1672,2024-08-03,07:59,Tulsa,Matthew Village,Drug Offense,Medium,No Arrest,0,7,Saturday,Morning,0
+C1673,2024-02-04,04:15,Dallas,Summers Cove,Robbery,High,Arrest Made,1,4,Sunday,Night,1
+C1674,2023-09-23,15:30,Little Rock,Elizabeth Light,Assault,Medium,Arrest Made,1,15,Saturday,Afternoon,0
+C1675,2024-04-23,02:17,Oklahoma City,Michelle Village,Fraud,Medium,No Arrest,0,2,Tuesday,Night,1
+C1676,2025-05-22,18:17,Houston,Donna Road,Theft,Low,No Arrest,0,18,Thursday,Evening,1
+C1677,2025-02-16,09:30,Dallas,Ortiz Centers,Homicide,High,Arrest Made,1,9,Sunday,Morning,1
+C1678,2023-06-13,10:13,Little Rock,Padilla Avenue,Drug Offense,Medium,Arrest Made,1,10,Tuesday,Morning,0
+C1679,2025-03-27,10:02,Houston,Cory Pike,Homicide,High,Arrest Made,1,10,Thursday,Morning,1
+C1680,2023-08-31,19:22,Houston,Philip Groves,Assault,Medium,Arrest Made,1,19,Thursday,Evening,1
+C1681,2025-03-16,21:04,Austin,Chelsea Creek,Fraud,Medium,Arrest Made,2,21,Sunday,Night,1
+C1682,2023-06-12,07:56,Kansas City,Sabrina Divide,Homicide,High,Arrest Made,1,7,Monday,Morning,0
+C1683,2023-10-10,16:22,Dallas,Moore Spur,Drug Offense,Medium,Arrest Made,1,16,Tuesday,Afternoon,1
+C1684,2024-02-09,02:05,San Antonio,Smith Valley,Theft,Low,Arrest Made,2,2,Friday,Night,1
+C1685,2025-02-24,20:18,Oklahoma City,Steven Manor,Drug Offense,Medium,Arrest Made,2,20,Monday,Evening,1
+C1686,2024-03-19,14:31,Austin,Young Island,Vandalism,Low,Arrest Made,2,14,Tuesday,Afternoon,1
+C1687,2023-12-31,21:21,Oklahoma City,Allen Wall,Vandalism,Low,Arrest Made,2,21,Sunday,Night,1
+C1688,2023-09-15,15:39,Austin,Bruce Pines,Assault,Medium,No Arrest,0,15,Friday,Afternoon,1
+C1689,2025-02-06,09:22,San Antonio,Gonzalez Glens,Assault,Medium,No Arrest,0,9,Thursday,Morning,1
+C1690,2024-06-10,21:18,Kansas City,Montgomery Junction,Vandalism,Low,Arrest Made,1,21,Monday,Night,0
+C1691,2023-10-25,09:38,Kansas City,Kim Island,Fraud,Medium,No Arrest,0,9,Wednesday,Morning,0
+C1692,2025-01-15,02:25,Houston,Douglas Mission,Robbery,High,No Arrest,0,2,Wednesday,Night,1
+C1693,2023-08-13,13:28,San Antonio,Dixon Wells,Burglary,Medium,Arrest Made,2,13,Sunday,Afternoon,1
+C1694,2024-10-10,14:30,Oklahoma City,Kevin Heights,Vandalism,Low,Arrest Made,2,14,Thursday,Afternoon,1
+C1695,2024-07-02,19:26,Kansas City,Lynch Valley,Fraud,Medium,Arrest Made,1,19,Tuesday,Evening,0
+C1696,2024-09-06,04:27,Houston,Jeffrey Ranch,Assault,Medium,No Arrest,0,4,Friday,Night,1
+C1697,2025-02-28,16:56,San Antonio,Amy Turnpike,Burglary,Medium,Arrest Made,1,16,Friday,Afternoon,1
+C1698,2023-11-29,12:34,Dallas,Gregory Mill,Fraud,Medium,Arrest Made,1,12,Wednesday,Afternoon,1
+C1699,2024-06-25,04:21,Oklahoma City,Kimberly Lakes,Fraud,Medium,No Arrest,0,4,Tuesday,Night,1
+C1700,2024-12-24,11:37,Kansas City,Allison Cliffs,Drug Offense,Medium,No Arrest,0,11,Tuesday,Morning,0
+C1701,2024-04-10,06:07,Austin,Tiffany Loop,Robbery,High,Arrest Made,2,6,Wednesday,Morning,1
+C1702,2024-03-13,00:43,Austin,Ryan Knoll,Assault,Medium,Arrest Made,1,0,Wednesday,Night,1
+C1703,2024-08-10,05:49,San Antonio,Brandy Fords,Vandalism,Low,Arrest Made,2,5,Saturday,Morning,1
+C1704,2024-03-12,23:16,San Antonio,Guzman Cove,Vandalism,Low,Arrest Made,1,23,Tuesday,Night,1
+C1705,2024-09-24,00:04,Little Rock,Dustin Keys,Drug Offense,Medium,Arrest Made,2,0,Tuesday,Night,0
+C1706,2023-07-19,10:45,Tulsa,Lee Green,Fraud,Medium,Arrest Made,1,10,Wednesday,Morning,0
+C1707,2023-10-01,13:03,Dallas,Joseph View,Burglary,Medium,Arrest Made,1,13,Sunday,Afternoon,1
+C1708,2023-12-07,14:08,Houston,Miranda Union,Vandalism,Low,Arrest Made,2,14,Thursday,Afternoon,1
+C1709,2025-03-14,07:16,Houston,Adams Orchard,Drug Offense,Medium,No Arrest,0,7,Friday,Morning,1
+C1710,2024-03-03,00:23,Kansas City,Clay Springs,Homicide,High,Arrest Made,1,0,Sunday,Night,0
+C1711,2025-03-13,08:19,Little Rock,Jasmine Ports,Homicide,High,Arrest Made,1,8,Thursday,Morning,0
+C1712,2023-07-11,07:50,Oklahoma City,Dickerson Corners,Homicide,High,Arrest Made,1,7,Tuesday,Morning,1
+C1713,2025-04-04,09:22,San Antonio,Danny Burgs,Drug Offense,Medium,Arrest Made,1,9,Friday,Morning,1
+C1714,2024-12-25,17:44,Houston,Stephanie Highway,Robbery,High,No Arrest,0,17,Wednesday,Evening,1
+C1715,2025-05-20,20:25,Dallas,Erica Course,Burglary,Medium,Arrest Made,1,20,Tuesday,Evening,1
+C1716,2025-03-19,13:10,Little Rock,Caldwell Dale,Homicide,High,Arrest Made,1,13,Wednesday,Afternoon,0
+C1717,2025-02-11,08:49,Little Rock,Fox Views,Vandalism,Low,No Arrest,0,8,Tuesday,Morning,0
+C1718,2024-01-10,04:09,Houston,Lee Squares,Robbery,High,Arrest Made,1,4,Wednesday,Night,1
+C1719,2025-04-10,09:02,Little Rock,Lee Bridge,Homicide,High,Arrest Made,1,9,Thursday,Morning,0
+C1720,2025-03-01,18:43,Houston,Donna Plain,Robbery,High,No Arrest,0,18,Saturday,Evening,1
+C1721,2024-09-04,20:18,Tulsa,Simpson Parkway,Fraud,Medium,No Arrest,0,20,Wednesday,Evening,0
+C1722,2024-02-24,10:08,San Antonio,Green Knolls,Robbery,High,No Arrest,0,10,Saturday,Morning,1
+C1723,2024-07-13,11:50,Little Rock,Catherine Dale,Drug Offense,Medium,No Arrest,0,11,Saturday,Morning,0
+C1724,2023-11-04,08:53,Tulsa,Martinez Green,Burglary,Medium,Arrest Made,2,8,Saturday,Morning,0
+C1725,2024-01-17,10:59,Dallas,Anderson Motorway,Burglary,Medium,Arrest Made,1,10,Wednesday,Morning,1
+C1726,2025-05-20,08:13,Tulsa,Juarez Village,Vandalism,Low,Arrest Made,1,8,Tuesday,Morning,0
+C1727,2024-07-26,13:45,Oklahoma City,Anthony Street,Robbery,High,Arrest Made,1,13,Friday,Afternoon,1
+C1728,2025-01-09,10:22,Houston,Martin Greens,Fraud,Medium,Arrest Made,1,10,Thursday,Morning,1
+C1729,2023-10-02,07:32,Little Rock,Mccoy Islands,Vandalism,Low,Arrest Made,1,7,Monday,Morning,0
+C1730,2024-05-24,00:33,Dallas,Nelson Trace,Drug Offense,Medium,Arrest Made,1,0,Friday,Night,1
+C1731,2025-03-10,20:30,Austin,Kelsey Club,Homicide,High,Arrest Made,1,20,Monday,Evening,1
+C1732,2024-11-08,05:24,Tulsa,Smith Mews,Theft,Low,Arrest Made,2,5,Friday,Morning,0
+C1733,2024-02-12,22:42,Oklahoma City,King Knoll,Assault,Medium,Arrest Made,2,22,Monday,Night,1
+C1734,2024-12-13,21:08,Little Rock,Herring Islands,Theft,Low,Arrest Made,2,21,Friday,Night,0
+C1735,2025-05-12,05:01,Tulsa,Nathan Forest,Theft,Low,Arrest Made,1,5,Monday,Morning,0
+C1736,2024-08-24,17:22,Houston,Larry Villages,Robbery,High,Arrest Made,1,17,Saturday,Evening,1
+C1737,2024-04-15,10:21,Houston,Erin Roads,Homicide,High,Arrest Made,1,10,Monday,Morning,1
+C1738,2025-01-08,07:35,Houston,Sandra Tunnel,Drug Offense,Medium,Arrest Made,2,7,Wednesday,Morning,1
+C1739,2023-08-09,02:23,Little Rock,Costa Fork,Theft,Low,No Arrest,0,2,Wednesday,Night,0
+C1740,2025-02-20,03:45,Little Rock,Stephanie Fall,Fraud,Medium,Arrest Made,1,3,Thursday,Night,0
+C1741,2024-10-12,16:29,Kansas City,Walker Springs,Fraud,Medium,No Arrest,0,16,Saturday,Afternoon,0
+C1742,2024-03-11,05:16,Tulsa,Antonio Mill,Fraud,Medium,Arrest Made,1,5,Monday,Morning,0
+C1743,2023-08-20,02:11,Kansas City,Townsend Stravenue,Drug Offense,Medium,No Arrest,0,2,Sunday,Night,0
+C1744,2024-11-11,11:00,Little Rock,Jessica Groves,Drug Offense,Medium,No Arrest,0,11,Monday,Morning,0
+C1745,2024-11-29,04:16,Little Rock,Brenda Valleys,Homicide,High,Arrest Made,1,4,Friday,Night,0
+C1746,2025-04-22,20:25,Little Rock,Eddie Terrace,Homicide,High,Arrest Made,1,20,Tuesday,Evening,0
+C1747,2024-09-14,01:07,Houston,Terry Walk,Drug Offense,Medium,No Arrest,0,1,Saturday,Night,1
+C1748,2025-04-04,15:41,Little Rock,Amanda Squares,Assault,Medium,No Arrest,0,15,Friday,Afternoon,0
+C1749,2023-12-13,04:20,Austin,Washington Spur,Robbery,High,Arrest Made,1,4,Wednesday,Night,1
+C1750,2024-09-12,01:22,Tulsa,Laura Isle,Vandalism,Low,Arrest Made,1,1,Thursday,Night,0
+C1751,2025-05-01,13:57,San Antonio,Beth Pike,Fraud,Medium,Arrest Made,1,13,Thursday,Afternoon,1
+C1752,2025-05-16,11:00,Kansas City,Melinda Place,Burglary,Medium,Arrest Made,2,11,Friday,Morning,0
+C1753,2024-09-17,00:52,Dallas,Carrie Prairie,Drug Offense,Medium,Arrest Made,1,0,Tuesday,Night,1
+C1754,2024-12-07,07:14,Houston,Devin Island,Theft,Low,No Arrest,0,7,Saturday,Morning,1
+C1755,2025-02-22,18:36,Dallas,Bruce Stream,Robbery,High,Arrest Made,2,18,Saturday,Evening,1
+C1756,2025-04-16,12:19,Tulsa,Scott Fall,Homicide,High,Arrest Made,1,12,Wednesday,Afternoon,0
+C1757,2024-07-11,20:34,Oklahoma City,Robert Field,Theft,Low,No Arrest,0,20,Thursday,Evening,1
+C1758,2024-05-03,06:35,Dallas,Jackson Meadows,Burglary,Medium,Arrest Made,1,6,Friday,Morning,1
+C1759,2023-09-19,12:16,Oklahoma City,Brown Freeway,Vandalism,Low,Arrest Made,1,12,Tuesday,Afternoon,1
+C1760,2023-08-04,00:28,Austin,Baker Key,Vandalism,Low,Arrest Made,2,0,Friday,Night,1
+C1761,2025-01-26,11:44,Austin,George Harbor,Vandalism,Low,No Arrest,0,11,Sunday,Morning,1
+C1762,2023-08-08,15:29,San Antonio,Hernandez Squares,Vandalism,Low,No Arrest,0,15,Tuesday,Afternoon,1
+C1763,2024-01-02,18:21,Oklahoma City,Catherine Heights,Vandalism,Low,No Arrest,0,18,Tuesday,Evening,1
+C1764,2023-07-30,14:35,Tulsa,Crane Well,Assault,Medium,No Arrest,0,14,Sunday,Afternoon,0
+C1765,2024-07-08,22:53,Dallas,Villa Camp,Drug Offense,Medium,Arrest Made,2,22,Monday,Night,1
+C1766,2023-07-26,09:40,San Antonio,Robinson Well,Theft,Low,Arrest Made,1,9,Wednesday,Morning,1
+C1767,2025-02-08,12:44,San Antonio,Nicolas Parkways,Fraud,Medium,No Arrest,0,12,Saturday,Afternoon,1
+C1768,2023-10-19,12:52,Kansas City,Heather Brooks,Robbery,High,Arrest Made,1,12,Thursday,Afternoon,0
+C1769,2024-08-15,18:17,Oklahoma City,Robert Extension,Homicide,High,Arrest Made,1,18,Thursday,Evening,1
+C1770,2024-05-21,01:17,Tulsa,Sheila Valleys,Robbery,High,Arrest Made,2,1,Tuesday,Night,0
+C1771,2024-02-02,09:39,Oklahoma City,Bridges Parkway,Homicide,High,Arrest Made,1,9,Friday,Morning,1
+C1772,2024-07-18,19:52,San Antonio,Emily Loop,Assault,Medium,No Arrest,0,19,Thursday,Evening,1
+C1773,2025-06-06,14:36,Houston,Hall Center,Robbery,High,Arrest Made,2,14,Friday,Afternoon,1
+C1774,2024-06-09,07:52,Little Rock,Gray Fall,Theft,Low,Arrest Made,1,7,Sunday,Morning,0
+C1775,2025-03-02,07:22,Kansas City,Smith Street,Theft,Low,No Arrest,0,7,Sunday,Morning,0
+C1776,2024-08-04,18:24,Tulsa,Townsend Burgs,Robbery,High,No Arrest,0,18,Sunday,Evening,0
+C1777,2023-10-23,19:19,San Antonio,Jennifer Squares,Assault,Medium,Arrest Made,1,19,Monday,Evening,1
+C1778,2024-10-04,08:57,Houston,Brandon Isle,Assault,Medium,Arrest Made,2,8,Friday,Morning,1
+C1779,2024-05-11,20:53,Austin,Gonzalez Gateway,Fraud,Medium,Arrest Made,1,20,Saturday,Evening,1
+C1780,2023-12-28,10:34,Houston,Williams Row,Homicide,High,Arrest Made,1,10,Thursday,Morning,1
+C1781,2024-03-22,11:48,Oklahoma City,Elizabeth Meadows,Fraud,Medium,No Arrest,0,11,Friday,Morning,1
+C1782,2023-09-25,04:52,Dallas,Greene Ranch,Drug Offense,Medium,No Arrest,0,4,Monday,Night,1
+C1783,2024-08-14,15:54,Kansas City,Casey Valleys,Homicide,High,Arrest Made,1,15,Wednesday,Afternoon,0
+C1784,2024-12-18,02:56,Austin,Hoffman Turnpike,Burglary,Medium,No Arrest,0,2,Wednesday,Night,1
+C1785,2024-06-27,09:14,Tulsa,Garcia Summit,Fraud,Medium,Arrest Made,1,9,Thursday,Morning,0
+C1786,2024-06-23,14:35,San Antonio,Washington Hill,Drug Offense,Medium,Arrest Made,1,14,Sunday,Afternoon,1
+C1787,2025-03-14,22:06,Little Rock,Cristian Views,Vandalism,Low,Arrest Made,2,22,Friday,Night,0
+C1788,2025-02-17,22:55,San Antonio,Angel Center,Burglary,Medium,Arrest Made,2,22,Monday,Night,1
+C1789,2024-07-19,02:03,Kansas City,Phelps Isle,Vandalism,Low,No Arrest,0,2,Friday,Night,0
+C1790,2025-02-14,03:54,San Antonio,Patricia Ports,Fraud,Medium,No Arrest,0,3,Friday,Night,1
+C1791,2024-09-02,16:45,San Antonio,Courtney Crossing,Fraud,Medium,Arrest Made,1,16,Monday,Afternoon,1
+C1792,2024-05-27,23:55,Little Rock,Murray Ferry,Drug Offense,Medium,No Arrest,0,23,Monday,Night,0
+C1793,2024-02-17,23:27,Oklahoma City,Thomas Roads,Fraud,Medium,Arrest Made,2,23,Saturday,Night,1
+C1794,2024-07-06,00:51,Dallas,Harrison Street,Vandalism,Low,No Arrest,0,0,Saturday,Night,1
+C1795,2024-06-14,08:48,Houston,Roger Valley,Vandalism,Low,No Arrest,0,8,Friday,Morning,1
+C1796,2024-02-24,08:04,Oklahoma City,Joshua Stravenue,Assault,Medium,No Arrest,0,8,Saturday,Morning,1
+C1797,2023-12-30,12:39,Little Rock,Mark Harbors,Theft,Low,Arrest Made,1,12,Saturday,Afternoon,0
+C1798,2025-01-28,09:58,San Antonio,Jennifer Walks,Drug Offense,Medium,No Arrest,0,9,Tuesday,Morning,1
+C1799,2025-01-28,01:11,Austin,Roberts Ferry,Homicide,High,Arrest Made,1,1,Tuesday,Night,1
+C1800,2024-11-07,16:16,Kansas City,Ellen Run,Robbery,High,No Arrest,0,16,Thursday,Afternoon,0
+C1801,2025-03-04,06:31,Little Rock,Jose Mission,Homicide,High,Arrest Made,1,6,Tuesday,Morning,0
+C1802,2023-10-05,21:22,Dallas,Sanders Hill,Theft,Low,Arrest Made,1,21,Thursday,Night,1
+C1803,2024-02-16,18:55,Houston,Martinez Way,Theft,Low,Arrest Made,1,18,Friday,Evening,1
+C1804,2023-08-01,09:42,Oklahoma City,Knight Haven,Theft,Low,Arrest Made,2,9,Tuesday,Morning,1
+C1805,2024-09-09,20:23,Dallas,Baldwin Mill,Homicide,High,Arrest Made,1,20,Monday,Evening,1
+C1806,2023-12-25,05:05,Tulsa,Fowler Grove,Vandalism,Low,No Arrest,0,5,Monday,Morning,0
+C1807,2025-02-22,19:31,Austin,Johnson Crest,Vandalism,Low,Arrest Made,1,19,Saturday,Evening,1
+C1808,2025-01-01,04:12,Tulsa,Harris Skyway,Homicide,High,Arrest Made,1,4,Wednesday,Night,0
+C1809,2025-05-01,12:14,Dallas,Jill Hills,Drug Offense,Medium,No Arrest,0,12,Thursday,Afternoon,1
+C1810,2025-02-19,21:28,Houston,James Square,Homicide,High,Arrest Made,1,21,Wednesday,Night,1
+C1811,2025-02-09,17:45,Tulsa,Stephanie Points,Assault,Medium,No Arrest,0,17,Sunday,Evening,0
+C1812,2024-04-11,08:17,Austin,Jennifer Station,Assault,Medium,No Arrest,0,8,Thursday,Morning,1
+C1813,2024-10-21,08:57,Austin,Connie Harbor,Vandalism,Low,Arrest Made,2,8,Monday,Morning,1
+C1814,2023-08-24,23:09,Austin,Mejia Roads,Robbery,High,No Arrest,0,23,Thursday,Night,1
+C1815,2024-09-19,19:47,San Antonio,Hammond Brooks,Theft,Low,Arrest Made,1,19,Thursday,Evening,1
+C1816,2023-09-23,19:04,Tulsa,Singleton Bypass,Robbery,High,Arrest Made,2,19,Saturday,Evening,0
+C1817,2024-06-09,05:49,Little Rock,Danny Road,Robbery,High,Arrest Made,2,5,Sunday,Morning,0
+C1818,2023-11-29,11:16,Tulsa,Burgess Corner,Homicide,High,Arrest Made,1,11,Wednesday,Morning,0
+C1819,2025-06-05,15:04,Little Rock,Walsh Coves,Drug Offense,Medium,No Arrest,0,15,Thursday,Afternoon,0
+C1820,2024-06-21,23:53,Dallas,David Manor,Assault,Medium,Arrest Made,2,23,Friday,Night,1
+C1821,2024-08-15,10:33,Tulsa,Thomas Drive,Assault,Medium,Arrest Made,1,10,Thursday,Morning,0
+C1822,2024-03-08,06:50,Austin,Scott Cape,Robbery,High,No Arrest,0,6,Friday,Morning,1
+C1823,2024-04-13,19:56,Little Rock,Michael Road,Fraud,Medium,Arrest Made,2,19,Saturday,Evening,0
+C1824,2023-11-20,12:23,Tulsa,Hopkins Pass,Assault,Medium,No Arrest,0,12,Monday,Afternoon,0
+C1825,2025-02-03,18:58,Kansas City,Robert Path,Fraud,Medium,Arrest Made,1,18,Monday,Evening,0
+C1826,2024-05-12,12:11,San Antonio,Janet Squares,Vandalism,Low,Arrest Made,2,12,Sunday,Afternoon,1
+C1827,2024-11-27,02:19,Houston,Robert Corner,Assault,Medium,Arrest Made,2,2,Wednesday,Night,1
+C1828,2023-12-19,00:51,Kansas City,Miranda Corners,Assault,Medium,Arrest Made,1,0,Tuesday,Night,0
+C1829,2023-12-08,07:37,Dallas,Jerry Stream,Theft,Low,No Arrest,0,7,Friday,Morning,1
+C1830,2024-04-19,20:01,Oklahoma City,Jason Keys,Robbery,High,Arrest Made,2,20,Friday,Evening,1
+C1831,2023-12-05,20:19,Austin,Navarro Spurs,Fraud,Medium,No Arrest,0,20,Tuesday,Evening,1
+C1832,2023-07-05,14:01,San Antonio,Garcia Springs,Homicide,High,Arrest Made,1,14,Wednesday,Afternoon,1
+C1833,2024-02-11,05:11,Houston,Jonathan Fields,Homicide,High,Arrest Made,1,5,Sunday,Morning,1
+C1834,2023-06-25,13:48,Oklahoma City,Graham Fall,Homicide,High,Arrest Made,1,13,Sunday,Afternoon,1
+C1835,2023-11-28,21:14,San Antonio,Thornton Ford,Assault,Medium,Arrest Made,2,21,Tuesday,Night,1
+C1836,2023-08-28,11:49,San Antonio,Hall Summit,Robbery,High,Arrest Made,2,11,Monday,Morning,1
+C1837,2025-02-12,07:37,Dallas,Valerie Shoal,Fraud,Medium,Arrest Made,1,7,Wednesday,Morning,1
+C1838,2024-12-18,03:37,Tulsa,Matthews Squares,Robbery,High,Arrest Made,2,3,Wednesday,Night,0
+C1839,2025-04-04,19:49,Austin,Ryan Stravenue,Robbery,High,No Arrest,0,19,Friday,Evening,1
+C1840,2024-07-29,23:11,San Antonio,Zamora Junction,Vandalism,Low,Arrest Made,1,23,Monday,Night,1
+C1841,2023-08-12,19:52,Houston,Reid Points,Vandalism,Low,Arrest Made,2,19,Saturday,Evening,1
+C1842,2023-08-15,18:57,Kansas City,Tyler Place,Theft,Low,Arrest Made,2,18,Tuesday,Evening,0
+C1843,2024-03-04,12:05,Little Rock,Howe Ports,Theft,Low,No Arrest,0,12,Monday,Afternoon,0
+C1844,2024-07-10,22:23,Austin,Carlson Summit,Vandalism,Low,Arrest Made,1,22,Wednesday,Night,1
+C1845,2023-07-17,16:55,Houston,Veronica Highway,Theft,Low,No Arrest,0,16,Monday,Afternoon,1
+C1846,2024-12-15,14:13,Austin,Roger Trail,Burglary,Medium,Arrest Made,2,14,Sunday,Afternoon,1
+C1847,2025-03-17,07:20,San Antonio,Brianna Crossroad,Drug Offense,Medium,Arrest Made,2,7,Monday,Morning,1
+C1848,2024-01-26,03:56,Houston,Mercer Mall,Theft,Low,Arrest Made,1,3,Friday,Night,1
+C1849,2024-06-05,20:40,Oklahoma City,Moreno Common,Vandalism,Low,No Arrest,0,20,Wednesday,Evening,1
+C1850,2024-11-06,11:40,Tulsa,Veronica Squares,Homicide,High,Arrest Made,1,11,Wednesday,Morning,0
+C1851,2024-07-09,19:39,San Antonio,Tammy Park,Theft,Low,Arrest Made,2,19,Tuesday,Evening,1
+C1852,2023-07-11,04:42,Little Rock,Garcia Orchard,Drug Offense,Medium,No Arrest,0,4,Tuesday,Night,0
+C1853,2024-01-09,04:58,Houston,Steven Shoals,Fraud,Medium,Arrest Made,2,4,Tuesday,Night,1
+C1854,2024-12-11,06:06,Kansas City,Kevin Light,Assault,Medium,No Arrest,0,6,Wednesday,Morning,0
+C1855,2023-10-02,05:07,Houston,Matthew Lock,Homicide,High,Arrest Made,1,5,Monday,Morning,1
+C1856,2024-10-04,01:44,Tulsa,Summers Dam,Robbery,High,Arrest Made,1,1,Friday,Night,0
+C1857,2024-06-19,14:48,Tulsa,Cynthia Hollow,Theft,Low,No Arrest,0,14,Wednesday,Afternoon,0
+C1858,2024-10-10,02:16,Oklahoma City,Harmon Fields,Burglary,Medium,Arrest Made,1,2,Thursday,Night,1
+C1859,2024-10-05,03:53,San Antonio,Chambers Station,Assault,Medium,Arrest Made,2,3,Saturday,Night,1
+C1860,2023-09-30,00:39,Dallas,Wright Plaza,Vandalism,Low,No Arrest,0,0,Saturday,Night,1
+C1861,2024-08-27,14:42,Dallas,Mcdonald Fields,Homicide,High,Arrest Made,1,14,Tuesday,Afternoon,1
+C1862,2024-04-03,23:49,Dallas,Ruth Harbor,Burglary,Medium,Arrest Made,2,23,Wednesday,Night,1
+C1863,2025-06-05,20:54,Austin,Erin Manor,Theft,Low,No Arrest,0,20,Thursday,Evening,1
+C1864,2025-03-01,00:17,Dallas,William Walk,Drug Offense,Medium,Arrest Made,2,0,Saturday,Night,1
+C1865,2024-12-02,03:29,Tulsa,Christopher Skyway,Robbery,High,Arrest Made,2,3,Monday,Night,0
+C1866,2023-09-17,00:11,Dallas,Cox Freeway,Homicide,High,Arrest Made,1,0,Sunday,Night,1
+C1867,2023-11-08,07:36,Austin,Moon Rest,Drug Offense,Medium,No Arrest,0,7,Wednesday,Morning,1
+C1868,2023-09-03,09:14,Tulsa,Allen Way,Homicide,High,Arrest Made,1,9,Sunday,Morning,0
+C1869,2024-01-16,16:50,Tulsa,Haynes Harbor,Robbery,High,No Arrest,0,16,Tuesday,Afternoon,0
+C1870,2024-07-10,10:24,Kansas City,Ray Highway,Robbery,High,No Arrest,0,10,Wednesday,Morning,0
+C1871,2024-12-19,18:40,Dallas,Peter Pine,Vandalism,Low,No Arrest,0,18,Thursday,Evening,1
+C1872,2023-11-25,21:28,Little Rock,Steve Hollow,Robbery,High,No Arrest,0,21,Saturday,Night,0
+C1873,2024-06-10,06:12,Little Rock,Amber Forges,Fraud,Medium,Arrest Made,1,6,Monday,Morning,0
+C1874,2025-01-27,09:53,San Antonio,Emily Corners,Theft,Low,No Arrest,0,9,Monday,Morning,1
+C1875,2025-05-26,21:48,Kansas City,Pennington Gardens,Drug Offense,Medium,Arrest Made,1,21,Monday,Night,0
+C1876,2024-11-08,17:18,Oklahoma City,Mills Locks,Assault,Medium,Arrest Made,2,17,Friday,Evening,1
+C1877,2025-06-10,04:16,Little Rock,Allen Port,Theft,Low,No Arrest,0,4,Tuesday,Night,0
+C1878,2024-10-05,09:57,Houston,Zimmerman Curve,Assault,Medium,Arrest Made,2,9,Saturday,Morning,1
+C1879,2024-09-25,22:20,Kansas City,Gray Centers,Robbery,High,Arrest Made,1,22,Wednesday,Night,0
+C1880,2025-04-22,17:04,Oklahoma City,Troy Plain,Drug Offense,Medium,No Arrest,0,17,Tuesday,Evening,1
+C1881,2025-02-07,03:07,San Antonio,Brown Mill,Fraud,Medium,Arrest Made,1,3,Friday,Night,1
+C1882,2024-03-04,05:07,Oklahoma City,Stephanie Point,Assault,Medium,Arrest Made,1,5,Monday,Morning,1
+C1883,2024-09-30,01:01,San Antonio,Burch Burg,Drug Offense,Medium,Arrest Made,2,1,Monday,Night,1
+C1884,2024-11-29,14:55,San Antonio,Church Station,Theft,Low,Arrest Made,1,14,Friday,Afternoon,1
+C1885,2025-01-20,22:06,San Antonio,Melanie Ferry,Drug Offense,Medium,Arrest Made,2,22,Monday,Night,1
+C1886,2023-12-24,06:18,Little Rock,Ryan Road,Theft,Low,Arrest Made,1,6,Sunday,Morning,0
+C1887,2025-05-01,09:45,Oklahoma City,Robinson Coves,Assault,Medium,Arrest Made,2,9,Thursday,Morning,1
+C1888,2024-04-02,15:12,Oklahoma City,Emma Radial,Theft,Low,No Arrest,0,15,Tuesday,Afternoon,1
+C1889,2024-11-28,15:32,San Antonio,Chad Cliffs,Vandalism,Low,Arrest Made,2,15,Thursday,Afternoon,1
+C1890,2023-08-29,21:15,Houston,Gomez Meadow,Assault,Medium,No Arrest,0,21,Tuesday,Night,1
+C1891,2025-02-06,09:08,Houston,Wade Field,Theft,Low,Arrest Made,1,9,Thursday,Morning,1
+C1892,2024-11-23,00:55,Austin,Smith Well,Theft,Low,Arrest Made,2,0,Saturday,Night,1
+C1893,2023-08-30,09:26,San Antonio,Sean Rest,Homicide,High,Arrest Made,1,9,Wednesday,Morning,1
+C1894,2025-03-08,04:46,Dallas,Chambers Islands,Burglary,Medium,Arrest Made,1,4,Saturday,Night,1
+C1895,2025-05-18,10:09,Oklahoma City,Wells Grove,Assault,Medium,No Arrest,0,10,Sunday,Morning,1
+C1896,2024-03-26,16:33,Little Rock,Hampton Parks,Fraud,Medium,Arrest Made,2,16,Tuesday,Afternoon,0
+C1897,2025-03-03,04:53,Dallas,Jeffrey Estates,Theft,Low,Arrest Made,1,4,Monday,Night,1
+C1898,2024-09-29,17:46,Dallas,Martinez Shoals,Assault,Medium,Arrest Made,1,17,Sunday,Evening,1
+C1899,2023-11-12,14:55,Little Rock,Craig Drives,Drug Offense,Medium,Arrest Made,1,14,Sunday,Afternoon,0
+C1900,2024-09-30,03:46,San Antonio,Cummings Villages,Burglary,Medium,Arrest Made,1,3,Monday,Night,1
+C1901,2025-03-17,22:02,Oklahoma City,Cole Stravenue,Robbery,High,Arrest Made,1,22,Monday,Night,1
+C1902,2024-05-25,12:31,Houston,Jeremy Unions,Fraud,Medium,Arrest Made,1,12,Saturday,Afternoon,1
+C1903,2023-09-07,22:15,San Antonio,Todd Islands,Drug Offense,Medium,No Arrest,0,22,Thursday,Night,1
+C1904,2025-05-11,17:54,Austin,Burns Oval,Fraud,Medium,Arrest Made,2,17,Sunday,Evening,1
+C1905,2024-10-17,14:20,San Antonio,Linda Center,Theft,Low,Arrest Made,2,14,Thursday,Afternoon,1
+C1906,2023-09-10,18:28,San Antonio,Desiree Turnpike,Vandalism,Low,Arrest Made,1,18,Sunday,Evening,1
+C1907,2025-01-02,16:51,Oklahoma City,Black Greens,Fraud,Medium,Arrest Made,1,16,Thursday,Afternoon,1
+C1908,2024-03-15,03:13,Dallas,Ashley Village,Robbery,High,No Arrest,0,3,Friday,Night,1
+C1909,2023-08-22,07:23,Dallas,Pierce Underpass,Robbery,High,Arrest Made,2,7,Tuesday,Morning,1
+C1910,2024-04-30,01:40,Houston,Johnson Heights,Theft,Low,Arrest Made,2,1,Tuesday,Night,1
+C1911,2025-01-09,14:19,Kansas City,Williams Mountain,Burglary,Medium,Arrest Made,2,14,Thursday,Afternoon,0
+C1912,2023-09-12,20:02,Kansas City,Ernest Glen,Robbery,High,Arrest Made,1,20,Tuesday,Evening,0
+C1913,2024-09-13,10:20,San Antonio,Mitchell Mission,Vandalism,Low,No Arrest,0,10,Friday,Morning,1
+C1914,2025-05-14,21:35,Austin,Joshua Points,Theft,Low,Arrest Made,1,21,Wednesday,Night,1
+C1915,2024-01-12,17:19,Tulsa,Mark Roads,Vandalism,Low,Arrest Made,1,17,Friday,Evening,0
+C1916,2023-08-27,17:48,Houston,Banks Ways,Assault,Medium,No Arrest,0,17,Sunday,Evening,1
+C1917,2024-09-01,05:59,Oklahoma City,Adams Mission,Burglary,Medium,No Arrest,0,5,Sunday,Morning,1
+C1918,2023-10-08,12:54,San Antonio,Martin Extension,Robbery,High,Arrest Made,1,12,Sunday,Afternoon,1
+C1919,2023-12-16,11:16,Oklahoma City,Paul Drive,Assault,Medium,No Arrest,0,11,Saturday,Morning,1
+C1920,2025-01-26,07:29,Austin,Daniel Freeway,Theft,Low,Arrest Made,1,7,Sunday,Morning,1
+C1921,2024-11-16,06:01,Houston,Cindy Land,Assault,Medium,No Arrest,0,6,Saturday,Morning,1
+C1922,2023-07-15,17:17,Austin,Lynch Cliff,Drug Offense,Medium,Arrest Made,1,17,Saturday,Evening,1
+C1923,2025-04-19,21:19,Oklahoma City,Anderson Parks,Fraud,Medium,Arrest Made,1,21,Saturday,Night,1
+C1924,2024-06-26,02:39,Dallas,Rojas Road,Burglary,Medium,Arrest Made,2,2,Wednesday,Night,1
+C1925,2024-01-19,06:15,Tulsa,Rivera Spring,Assault,Medium,Arrest Made,2,6,Friday,Morning,0
+C1926,2024-02-17,01:04,Kansas City,Joshua Isle,Fraud,Medium,Arrest Made,2,1,Saturday,Night,0
+C1927,2024-06-14,16:50,Dallas,Mark Square,Assault,Medium,Arrest Made,1,16,Friday,Afternoon,1
+C1928,2024-06-02,16:17,Little Rock,White Ways,Drug Offense,Medium,No Arrest,0,16,Sunday,Afternoon,0
+C1929,2024-07-01,21:32,Oklahoma City,Howell Motorway,Vandalism,Low,No Arrest,0,21,Monday,Night,1
+C1930,2023-11-02,07:47,Dallas,Daniel Island,Vandalism,Low,No Arrest,0,7,Thursday,Morning,1
+C1931,2024-05-22,02:55,Tulsa,Ashley Field,Vandalism,Low,Arrest Made,2,2,Wednesday,Night,0
+C1932,2024-06-04,11:36,Little Rock,Karen Dam,Fraud,Medium,Arrest Made,1,11,Tuesday,Morning,0
+C1933,2024-06-02,14:13,Little Rock,Rowland Inlet,Drug Offense,Medium,Arrest Made,1,14,Sunday,Afternoon,0
+C1934,2024-06-02,11:03,Austin,Mathews Cape,Burglary,Medium,No Arrest,0,11,Sunday,Morning,1
+C1935,2025-03-27,02:13,Oklahoma City,Mike Rest,Fraud,Medium,No Arrest,0,2,Thursday,Night,1
+C1936,2024-03-12,04:16,Austin,Sexton Estates,Burglary,Medium,No Arrest,0,4,Tuesday,Night,1
+C1937,2023-12-05,22:33,Oklahoma City,Kelly Spurs,Theft,Low,No Arrest,0,22,Tuesday,Night,1
+C1938,2023-12-01,04:55,Dallas,Richard Streets,Vandalism,Low,No Arrest,0,4,Friday,Night,1
+C1939,2025-06-04,08:23,Kansas City,Lambert Courts,Theft,Low,Arrest Made,1,8,Wednesday,Morning,0
+C1940,2024-05-18,22:30,Dallas,Carolyn Hill,Homicide,High,Arrest Made,1,22,Saturday,Night,1
+C1941,2025-05-29,12:55,Oklahoma City,Heidi Viaduct,Fraud,Medium,Arrest Made,1,12,Thursday,Afternoon,1
+C1942,2024-02-29,15:53,Kansas City,Serrano Trail,Vandalism,Low,Arrest Made,2,15,Thursday,Afternoon,0
+C1943,2024-07-18,04:00,Austin,Grant Lodge,Fraud,Medium,No Arrest,0,4,Thursday,Night,1
+C1944,2025-05-25,18:38,Tulsa,Schroeder Turnpike,Drug Offense,Medium,Arrest Made,1,18,Sunday,Evening,0
+C1945,2023-08-24,11:41,Dallas,Rhonda Well,Burglary,Medium,No Arrest,0,11,Thursday,Morning,1
+C1946,2023-09-20,08:03,San Antonio,Bradley Stream,Homicide,High,Arrest Made,1,8,Wednesday,Morning,1
+C1947,2024-03-24,01:44,Little Rock,Laura Lakes,Robbery,High,No Arrest,0,1,Sunday,Night,0
+C1948,2024-07-02,05:37,Little Rock,Hopkins Ferry,Homicide,High,Arrest Made,1,5,Tuesday,Morning,0
+C1949,2023-09-11,11:49,Oklahoma City,Pope Mountains,Burglary,Medium,No Arrest,0,11,Monday,Morning,1
+C1950,2023-06-13,18:23,Austin,Chad Cliffs,Theft,Low,Arrest Made,1,18,Tuesday,Evening,1
+C1951,2024-08-19,14:51,Houston,Howell Creek,Robbery,High,No Arrest,0,14,Monday,Afternoon,1
+C1952,2023-06-21,20:04,Oklahoma City,Jerome Rapid,Fraud,Medium,Arrest Made,1,20,Wednesday,Evening,1
+C1953,2025-01-06,17:23,Houston,Michael Village,Robbery,High,Arrest Made,2,17,Monday,Evening,1
+C1954,2024-02-11,23:36,Oklahoma City,Blair Prairie,Homicide,High,Arrest Made,1,23,Sunday,Night,1
+C1955,2024-03-07,17:15,Tulsa,Lisa Mall,Assault,Medium,No Arrest,0,17,Thursday,Evening,0
+C1956,2023-12-26,01:00,Oklahoma City,Oscar Hill,Drug Offense,Medium,No Arrest,0,1,Tuesday,Night,1
+C1957,2023-11-07,19:31,Houston,Moreno Mountain,Vandalism,Low,No Arrest,0,19,Tuesday,Evening,1
+C1958,2023-08-28,16:58,Oklahoma City,Michael Cliffs,Drug Offense,Medium,Arrest Made,2,16,Monday,Afternoon,1
+C1959,2024-03-29,12:59,Little Rock,Campbell Plains,Robbery,High,No Arrest,0,12,Friday,Afternoon,0
+C1960,2025-02-06,12:56,Little Rock,Hill Trail,Theft,Low,No Arrest,0,12,Thursday,Afternoon,0
+C1961,2025-01-20,12:21,Houston,Philip Stravenue,Fraud,Medium,Arrest Made,2,12,Monday,Afternoon,1
+C1962,2024-11-01,07:29,Houston,Gordon Parks,Drug Offense,Medium,Arrest Made,1,7,Friday,Morning,1
+C1963,2024-07-20,02:38,San Antonio,George Shoal,Vandalism,Low,Arrest Made,1,2,Saturday,Night,1
+C1964,2025-05-31,07:12,Oklahoma City,Pennington Gateway,Burglary,Medium,No Arrest,0,7,Saturday,Morning,1
+C1965,2025-04-01,21:23,Kansas City,Miller Corners,Fraud,Medium,Arrest Made,2,21,Tuesday,Night,0
+C1966,2025-03-21,09:58,Little Rock,Jay Forges,Fraud,Medium,No Arrest,0,9,Friday,Morning,0
+C1967,2023-06-19,01:53,Austin,Williams Orchard,Vandalism,Low,Arrest Made,2,1,Monday,Night,1
+C1968,2023-08-19,11:16,Dallas,Lisa Forks,Theft,Low,No Arrest,0,11,Saturday,Morning,1
+C1969,2024-12-28,22:36,Oklahoma City,Vazquez Point,Drug Offense,Medium,No Arrest,0,22,Saturday,Night,1
+C1970,2023-07-26,07:20,Houston,Darren Squares,Vandalism,Low,Arrest Made,2,7,Wednesday,Morning,1
+C1971,2025-05-23,10:10,Austin,David Springs,Fraud,Medium,No Arrest,0,10,Friday,Morning,1
+C1972,2023-07-19,23:16,Dallas,Douglas Shores,Homicide,High,Arrest Made,1,23,Wednesday,Night,1
+C1973,2023-11-16,21:16,Austin,Jocelyn Hollow,Theft,Low,Arrest Made,2,21,Thursday,Night,1
+C1974,2023-09-29,09:11,Little Rock,Mcdonald Port,Homicide,High,Arrest Made,1,9,Friday,Morning,0
+C1975,2024-12-23,17:03,Little Rock,Hoffman Crescent,Vandalism,Low,Arrest Made,2,17,Monday,Evening,0
+C1976,2025-02-05,22:46,San Antonio,Hudson Summit,Robbery,High,Arrest Made,1,22,Wednesday,Night,1
+C1977,2024-10-15,05:00,Dallas,Berry Club,Burglary,Medium,No Arrest,0,5,Tuesday,Morning,1
+C1978,2024-11-14,14:13,Houston,Shane Mall,Robbery,High,Arrest Made,1,14,Thursday,Afternoon,1
+C1979,2024-07-13,23:07,Little Rock,Dean Haven,Robbery,High,Arrest Made,1,23,Saturday,Night,0
+C1980,2024-07-18,19:30,Dallas,Orr Way,Burglary,Medium,No Arrest,0,19,Thursday,Evening,1
+C1981,2024-12-09,08:57,Oklahoma City,Katherine Fall,Homicide,High,Arrest Made,1,8,Monday,Morning,1
+C1982,2023-07-05,13:08,Houston,David Mountains,Homicide,High,Arrest Made,1,13,Wednesday,Afternoon,1
+C1983,2023-12-31,22:59,San Antonio,Jamie Ways,Robbery,High,Arrest Made,2,22,Sunday,Night,1
+C1984,2024-02-17,18:27,Houston,Brown Burg,Drug Offense,Medium,Arrest Made,2,18,Saturday,Evening,1
+C1985,2025-01-14,14:10,Austin,Smith Motorway,Robbery,High,No Arrest,0,14,Tuesday,Afternoon,1
+C1986,2024-09-12,15:58,Houston,Sarah Junction,Fraud,Medium,Arrest Made,2,15,Thursday,Afternoon,1
+C1987,2023-10-29,10:23,Austin,Cassandra Plains,Fraud,Medium,Arrest Made,1,10,Sunday,Morning,1
+C1988,2023-07-21,00:44,Tulsa,Simmons Inlet,Robbery,High,No Arrest,0,0,Friday,Night,0
+C1989,2024-05-20,11:44,Little Rock,Jacqueline Parkways,Vandalism,Low,Arrest Made,2,11,Monday,Morning,0
+C1990,2024-11-23,21:43,San Antonio,Christy River,Robbery,High,Arrest Made,2,21,Saturday,Night,1
+C1991,2023-07-07,05:11,Austin,Daniel Union,Homicide,High,Arrest Made,1,5,Friday,Morning,1
+C1992,2025-03-26,13:09,Austin,Wolf Knolls,Robbery,High,Arrest Made,2,13,Wednesday,Afternoon,1
+C1993,2023-10-27,16:42,San Antonio,Esparza Plains,Burglary,Medium,Arrest Made,2,16,Friday,Afternoon,1
+C1994,2024-06-28,17:10,Tulsa,Day Overpass,Fraud,Medium,No Arrest,0,17,Friday,Evening,0
+C1995,2023-07-25,10:10,Little Rock,Sutton Streets,Drug Offense,Medium,Arrest Made,2,10,Tuesday,Morning,0
+C1996,2025-05-04,07:17,Oklahoma City,Garcia Wells,Homicide,High,Arrest Made,1,7,Sunday,Morning,1
+C1997,2024-09-18,21:19,Kansas City,Gregory Turnpike,Drug Offense,Medium,Arrest Made,1,21,Wednesday,Night,0
+C1998,2024-12-15,21:25,Houston,Meredith Unions,Drug Offense,Medium,No Arrest,0,21,Sunday,Night,1
+C1999,2023-08-21,18:10,Kansas City,Robin Streets,Burglary,Medium,No Arrest,0,18,Monday,Evening,0
+C2000,2024-06-02,22:26,Dallas,Stuart Cape,Vandalism,Low,Arrest Made,2,22,Sunday,Night,1

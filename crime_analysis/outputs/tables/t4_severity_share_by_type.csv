@@ -1,0 +1,9 @@
+Crime Type,Low,Medium,High
+Robbery,0.0,0.0,100.0
+Homicide,0.0,0.0,100.0
+Assault,0.0,100.0,0.0
+Burglary,0.0,100.0,0.0
+Fraud,0.0,100.0,0.0
+Drug Offense,0.0,100.0,0.0
+Theft,100.0,0.0,0.0
+Vandalism,100.0,0.0,0.0
