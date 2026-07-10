@@ -1,0 +1,186 @@
+{
+  "task1": {
+    "rows": 14999,
+    "cols": 10,
+    "total_missing": 0,
+    "duplicates": 3008,
+    "attrition_rate": 0.2380825388359224,
+    "n_left": 3571,
+    "n_stayed": 11428
+  },
+  "task2": {
+    "corr_with_left": {
+      "satisfaction_level": -0.3884,
+      "Work_accident": -0.1546,
+      "time_spend_company": 0.1448,
+      "average_montly_hours": 0.0713,
+      "promotion_last_5years": -0.0618,
+      "number_project": 0.0238,
+      "last_evaluation": 0.0066
+    },
+    "project_attrition": [
+      {
+        "number_project": 2,
+        "stayed": 821,
+        "left": 1567,
+        "attrition_rate": 0.6562
+      },
+      {
+        "number_project": 3,
+        "stayed": 3983,
+        "left": 72,
+        "attrition_rate": 0.0178
+      },
+      {
+        "number_project": 4,
+        "stayed": 3956,
+        "left": 409,
+        "attrition_rate": 0.0937
+      },
+      {
+        "number_project": 5,
+        "stayed": 2149,
+        "left": 612,
+        "attrition_rate": 0.2217
+      },
+      {
+        "number_project": 6,
+        "stayed": 519,
+        "left": 655,
+        "attrition_rate": 0.5579
+      },
+      {
+        "number_project": 7,
+        "stayed": 0,
+        "left": 256,
+        "attrition_rate": 1.0
+      }
+    ]
+  },
+  "task3": {
+    "centers": [
+      {
+        "satisfaction_level": 0.1112,
+        "last_evaluation": 0.8693
+      },
+      {
+        "satisfaction_level": 0.4101,
+        "last_evaluation": 0.517
+      },
+      {
+        "satisfaction_level": 0.8085,
+        "last_evaluation": 0.9117
+      }
+    ],
+    "sizes": {
+      "0": 944,
+      "1": 1650,
+      "2": 977
+    },
+    "labels": {
+      "0": "Burned-out high performers (low satisfaction, high eval)",
+      "1": "Disengaged / under-evaluated (low satisfaction, low eval)",
+      "2": "Frustrated high performers (decent satisfaction, high eval)"
+    }
+  },
+  "task4": {
+    "n_features": 20,
+    "train_before": {
+      "0": 9142,
+      "1": 2857
+    },
+    "train_after": {
+      "0": 9142,
+      "1": 9142
+    },
+    "test_size": 3000
+  },
+  "task5": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.8086,
+      "precision_left": 0.8011,
+      "recall_left": 0.8209,
+      "f1_left": 0.8109
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.985,
+      "precision_left": 0.9946,
+      "recall_left": 0.9753,
+      "f1_left": 0.9849
+    },
+    {
+      "model": "Gradient Boosting",
+      "accuracy": 0.9629,
+      "precision_left": 0.976,
+      "recall_left": 0.949,
+      "f1_left": 0.9623
+    }
+  ],
+  "task6": {
+    "test_metrics": {
+      "Logistic Regression": {
+        "auc": 0.820779142803228,
+        "confusion_matrix": [
+          [
+            1836,
+            450
+          ],
+          [
+            201,
+            513
+          ]
+        ],
+        "recall_left": 0.7184873949579832,
+        "precision_left": 0.5327102803738317,
+        "f1_left": 0.6118067978533095,
+        "accuracy": 0.783
+      },
+      "Random Forest": {
+        "auc": 0.9951231586247798,
+        "confusion_matrix": [
+          [
+            2271,
+            15
+          ],
+          [
+            16,
+            698
+          ]
+        ],
+        "recall_left": 0.9775910364145658,
+        "precision_left": 0.9789621318373072,
+        "f1_left": 0.9782761037140855,
+        "accuracy": 0.9896666666666667
+      },
+      "Gradient Boosting": {
+        "auc": 0.9860507632624353,
+        "confusion_matrix": [
+          [
+            2227,
+            59
+          ],
+          [
+            50,
+            664
+          ]
+        ],
+        "recall_left": 0.9299719887955182,
+        "precision_left": 0.9183955739972337,
+        "f1_left": 0.9241475295755045,
+        "accuracy": 0.9636666666666667
+      }
+    },
+    "best_model": "Random Forest"
+  },
+  "task7": {
+    "zone_counts": {
+      "Safe Zone (Green)": 2182,
+      "Low-Risk Zone (Yellow)": 111,
+      "Medium-Risk Zone (Orange)": 61,
+      "High-Risk Zone (Red)": 646
+    },
+    "best_model": "Random Forest"
+  }
+}
