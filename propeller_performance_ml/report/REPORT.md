@@ -1,8 +1,6 @@
 # UAV Propeller Performance — Data Science Capstone
 ### A data-driven framework for predicting thrust coefficient, power coefficient and efficiency
 
-**Author:** Prashant Kumar · **Date:** 2026-07-16
-
 ---
 
 ## 1. Understanding the problem
