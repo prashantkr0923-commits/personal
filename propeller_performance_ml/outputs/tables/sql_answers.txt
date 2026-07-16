@@ -1,0 +1,27 @@
+====================================================================
+WEEK 1 - SQL ANSWERS
+====================================================================
+
+Q1. Experiment 1 - propellers with thrust coefficient > 12% (0.12):
+    distinct propellers : 42
+    operating-point rows: 1002
+
+Q2. Experiment 1 reordered by efficiency (descending). Saved 16455 rows. Top 5:
+     propeller_name  advance_ratio  rpm  thrust_coeff  power_coeff  efficiency
+ apce 11.0x10.0 - 2          0.668 5501        0.0754       0.0661       0.762
+ apce 11.0x10.0 - 2          0.694 5501        0.0691       0.0630       0.761
+ apce 11.0x10.0 - 2          0.718 5501        0.0628       0.0595       0.759
+ apce 11.0x10.0 - 2          0.741 5501        0.0572       0.0559       0.759
+kyosho 10.0x7.0 - 2          0.663 6506        0.0566       0.0494       0.759
+
+Q3. Experiment 1 - 100 least-performing rows by power coefficient. Saved 100 rows. Lowest 5:
+    propeller_name  advance_ratio  rpm  power_coeff  efficiency
+  magf 7.0x4.0 - 2          0.781 4014       0.0025      -8.158
+ grcsp 9.0x5.0 - 2          0.660 6915       0.0043      -0.782
+apcsp 8.0x10.0 - 2          1.552 4004       0.0045     -15.915
+ magf 11.0x8.0 - 2          0.875 3001       0.0050      -2.279
+ apccf 7.8x6.0 - 2          0.980 5005       0.0051      -2.583
+
+Q4. Merged experiment 1+2+3 - propellers with efficiency <= 0:
+    distinct propellers : 240  (of 240 total)
+    operating-point rows: 6245
